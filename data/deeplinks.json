@@ -1,0 +1,626 @@
+[
+    {
+        "deeplink": "https://go.bunq.com/link/accounts/new",
+        "app_description": "To \u2018Get a sub-account\u2019 screen",
+        "web_description": "How to create a sub-account tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/plus-one",
+        "app_description": "To \u2018Connected Users\u2019 screen",
+        "web_description": "plus 1 benefits page",
+        "iOS": false,
+        "Android": true,
+        "Web": false
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/accounts/new/joint",
+        "app_description": "To 'Get a Joint Account' screen",
+        "web_description": "To 'Get a Joint Account' screen",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/accounts/new/connect",
+        "app_description": "To the \u2018Explore\u2019 screen",
+        "web_description": "plus 1 Person benefit page",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/topup",
+        "app_description": "To the \u2018Add Money\u2019 screen, user will choose where money goes in next step",
+        "web_description": "How to top up tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/total-donated",
+        "app_description": "To the \u2018Total donated\u2019 screen",
+        "web_description": "Common Goals benefit page",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/budget",
+        "app_description": "To Budget\u2019s \u2018Categories\u2019 screen",
+        "web_description": "To the automatic budgeting benefit and tip video page",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/cards/order",
+        "app_description": "To \u2018Get an extra card\u2019 screen",
+        "web_description": "How to order a new card tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/cards/order/travelcard",
+        "app_description": "To \u2018Get an extra card\u2019 screen",
+        "web_description": "How to order a Travel Card tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/loyalty-card/new",
+        "app_description": "To \u2018Add my loyalty Card\u2019 screen",
+        "web_description": "Loyalty Card benefit page",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/export-statement",
+        "app_description": "Multiple MA owner: to \u2018Choose the sub-account you want to export a statement for\u2019 screen - BUG (cannot proceed to next step)\nOne MA owner: TBC",
+        "web_description": "Together post: How do I export a bank statement?",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/rib",
+        "app_description": "Multiple MAs owner: To \u2018For which sub-account do you need a RIB' screen",
+        "web_description": "Together post: How do I export a RIB?",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/profile",
+        "app_description": "Profile tab",
+        "web_description": "How to manage your profile tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/create-tribe",
+        "app_description": "To \u2018Create a tribe\u2019 screen",
+        "web_description": "To Top 10 Green Tribes page",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com//link/tree-planting-besties",
+        "app_description": "To 'Gift Tree Planting' screen",
+        "web_description": "",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/switch/business",
+        "app_description": "To \u2018Switch subscription\u2019 screen",
+        "web_description": "How to upgrade or switch to Business tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/membership/pack",
+        "app_description": "To \u2018(Get) bunq Pack\u2019 screen",
+        "web_description": "Together post: What\u2019s bunq pack",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/security",
+        "app_description": "To \u2018Security & Preferences\u2019 screen",
+        "web_description": "How to manage account security tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/notifications",
+        "app_description": "To \u2018notifications\u2019 screen",
+        "web_description": "How to manage notifications tutorial",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/friends",
+        "app_description": "To the \u2018Friends\u2019 tab",
+        "web_description": "",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/scanner/qr",
+        "app_description": "To the \u2018Camera\u2019 screen",
+        "web_description": "How to scan QR code tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/receiptsplitter",
+        "app_description": "To the 'Split receipt' screen",
+        "web_description": "",
+        "iOS": true,
+        "Android": true,
+        "Web": false
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/cards/order/nfc",
+        "app_description": "To \u2018Get an extra card\u2019 screen",
+        "web_description": "How to activate Tap&Pay tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/support",
+        "app_description": "To \u2018Support Center\u2019 screen",
+        "web_description": "How to get support tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/set-pin",
+        "app_description": "Multiple cards owner: To \u2018Chose the card you want to change the PIN for' screen \nOne card owner: To \u2018Change Card PIN' screen",
+        "web_description": "Together post: How do I change my card\u2019s PIN code",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/ibans",
+        "app_description": "To \u2018These are your IBANs\u2019 screen",
+        "web_description": "Together post: How do I find my IBAN?",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/invite",
+        "app_description": "To \u2018Plant 10 trees for every friend that you invite\u2019 screen",
+        "web_description": "How to invite a friend tutorial",
+        "iOS": false,
+        "Android": false,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/billing/invoices",
+        "app_description": "To \u2018Invoices and Billing\u2019 screen",
+        "web_description": "How to get your invoices tutorial",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/billing/runningcosts",
+        "app_description": "To \u2018Upcoming Invoice\u2019 screen",
+        "web_description": "How to check your monthly costs tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/switch-service",
+        "app_description": "To \u2018Switch to bunq with zero effort\u2019 screen",
+        "web_description": "How to switch service tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/travelassistant",
+        "app_description": "To the \u2018Search For a Country\u2019 screen",
+        "web_description": "Travel Assistant benefit page",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/accounts",
+        "app_description": "To the \u2018Home\u2019 screen",
+        "web_description": "How to manage accounts tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/insights",
+        "app_description": "To the \u2018Insights\u2019 screen",
+        "web_description": "The Insights benefit page with tip video",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/paymentsorter",
+        "app_description": "To \u2018Start Sorting\u2019 screen (applicable for users with Auto Sorted Payments)",
+        "web_description": "",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/autorequest",
+        "app_description": "To \u2018Auto Request\u2019 overview screen",
+        "web_description": "",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/bunqme-overview",
+        "app_description": "To \u2018bunq.me\u2019 screen",
+        "web_description": "How to create bunqme tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/cards/order/mastercard",
+        "app_description": "To \u2018Get an extra card\u2019 screen",
+        "web_description": "How to order a debit Mastercard tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/knowledge",
+        "app_description": "To the \u2018Knowledge\u2019 screen",
+        "web_description": "To Together - Knowledge session",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/get-support",
+        "app_description": "To \u2018What can we help you with\u2019 screen",
+        "web_description": "\"",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/together",
+        "app_description": "To \u2018Help Each Other\u2019 screen",
+        "web_description": "How to go to Together tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/PersonInformationRequired",
+        "app_description": "opens the specific event for Person Risk Information",
+        "web_description": "The Together post about why we need your information",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/massinterest",
+        "app_description": "To 'MassInterest helped you saved' screen",
+        "web_description": "",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/billing",
+        "app_description": "To \u2018My subscription\u2019 screen",
+        "web_description": "How to check your membership tutorial",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://www.bunq.com/link/developer/apikeys",
+        "app_description": "To \u2018API Keys\u2019 screen",
+        "web_description": "How to API tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/request",
+        "app_description": "To the Amount screen of Request Money",
+        "web_description": "How to request money tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/accounts/new/parent-child",
+        "app_description": "To 'Create a Child Account' screen",
+        "web_description": "",
+        "iOS": false,
+        "Android": true,
+        "Web": false
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/forest",
+        "app_description": "To the \u2018CO2 Saved\u2019 screen",
+        "web_description": "How to access your forest tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/my-subs",
+        "app_description": "To \u2018My subscriptions\u2019 screen",
+        "web_description": "To the subscription benefit and tip video page",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/scanner/invoice",
+        "app_description": "To the \u2018Camera\u2019 screen",
+        "web_description": "How to scan invoice tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/cards",
+        "app_description": "To the \u2018Card\u2019 screen",
+        "web_description": "Hot to manage cards tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://together.bunq.com/d/discussion-id",
+        "app_description": "To the specific Together post screen",
+        "web_description": "To the specific Together post",
+        "iOS": true,
+        "Android": true,
+        "Web": false
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/cvc",
+        "app_description": "Multiple cards owner: To \u2018Chose the card you want to see the CVC for' screen \nOne card owner: To \u2018CVC security code' screen",
+        "web_description": "Together post: How do I find my card details and rotating CVC?",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/my-contacts",
+        "app_description": "To \u2018My bunq contacts\u2019 screen",
+        "web_description": "To the Circle of Trust benefit and tip video page",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/upgrade",
+        "app_description": "To \u2018Switch subscription\u2019 screen",
+        "web_description": "How to upgrade or switch subscription tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/switch/business-supergreen",
+        "app_description": "To \u2018Switch subscription\u2019 screen",
+        "web_description": "How to upgrade or switch to Business SuperGreen tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/switch/travel",
+        "app_description": "To \u2018Switch subscription\u2019 screen",
+        "web_description": "How to upgrade or switch to Travel tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": false
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/add-on",
+        "app_description": "To 'Add-ons' screen",
+        "web_description": "",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/activities",
+        "app_description": "To the \u2018Start Activity\u2019 screen",
+        "web_description": "",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/pay",
+        "app_description": "To the amount screen of Pay",
+        "web_description": "How to make payment tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/accounts/new/savings",
+        "app_description": "To \u2018Get a sub-account\u2019 screen",
+        "web_description": "What\u2019s the Savings Goal tip video page",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/slice/new",
+        "app_description": "To the \u2018Explore\u2019 screen",
+        "web_description": "Together post: Slice group",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/sub-account-verification",
+        "app_description": "To the \u2018Send Document' screen on monetary account verification",
+        "web_description": "How to verify tutorial",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/bunqme-create",
+        "app_description": "To \u2018choose your new link\u2019 screen",
+        "web_description": "How to create bunqme tutorial",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/events",
+        "app_description": "To the \u2018Total\u2019 screen",
+        "web_description": "Hot to use events tutorial",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/bunq-me",
+        "app_description": "To \u2018bunq.me\u2019 screen",
+        "web_description": "To the bunqme benefit and tip video page",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/scanner",
+        "app_description": "To the \u2018Camera\u2019 screen",
+        "web_description": "How to scan (generally) tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/cards/order/maestro",
+        "app_description": "To \u2018Get an extra card\u2019 screen",
+        "web_description": "How to order a Maestro card tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/cards/order/metalcard",
+        "app_description": "To \u2018Get your Metal Card for Free\u2019 screen",
+        "web_description": "How to order a Metal Card tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/billing/annualoverview",
+        "app_description": "To \u2018Annual Overview\u2019 screen",
+        "web_description": "How to get your annual overview tutorial",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/deals",
+        "app_description": "To \u2018bunq Deals\u2019 screen",
+        "web_description": "To the Deals benefit and tip video page",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/freedom-of-choice",
+        "app_description": "To \u2018Freedom of Choice\u2019 screen",
+        "web_description": "To the Freedom of Choice benefit and tip video page",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/create-common-goal",
+        "app_description": "To \u2018Create a Common Goal\u2019 screen",
+        "web_description": "To Common Goals page",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/easygreenwidget",
+        "app_description": "To \u2018Mail Me My Widget\u2019 screen",
+        "web_description": "",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/switch/premium",
+        "app_description": "To \u2018Switch subscription\u2019 screen",
+        "web_description": "How to upgrade or switch to Premium tutorial",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/switch/premium-supergreen",
+        "app_description": "To \u2018Upgrade to SuperGreen and\u2019 screen",
+        "web_description": "How to upgrade or switch to Premium SuperGreen tutorial",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/company-directors",
+        "app_description": "To \u2018company directors\u2019 screen",
+        "web_description": "How to add a company director tutorial",
+        "iOS": false,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/autoexport",
+        "app_description": "To 'Setup Auto Export' screen",
+        "web_description": "",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    },
+    {
+        "deeplink": "https://go.bunq.com/link/zapier",
+        "app_description": "To 'Connect Zapier' screen",
+        "web_description": "",
+        "iOS": true,
+        "Android": true,
+        "Web": true
+    }
+]

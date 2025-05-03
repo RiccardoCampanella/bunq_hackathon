@@ -1,0 +1,6 @@
+openai
+numpy
+duckduckgo_search
+requests
+matplotlib
+Pillow
