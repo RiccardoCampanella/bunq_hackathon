@@ -1,0 +1,4602 @@
+{
+  "569": {
+    "rental_info": {
+      "financial_metrics": {
+        "total_transactions": 4,
+        "total_amount": 31144.88,
+        "country_distribution": {
+          "UN": 4
+        }
+      },
+      "geographical_insights": {
+        "cities": [
+          "",
+          "September Electri"
+        ],
+        "transaction_spread_km": 816.42
+      }
+    },
+    "subscription_info": {
+      "total_subscriptions": 6,
+      "monthly_cost_breakdown": {
+        "EURO": 1348.1,
+        "SEK": 16187.83,
+        "TRY": 8079.94,
+        "USD": 5999.03,
+        "GBP": 7780.58
+      }
+    },
+    "salary_transactions": [
+      {
+        "timestamp": "2023-01-22T19:00:00",
+        "amount": 5948.98,
+        "financial_metadata": {
+          "currency": "CAD",
+          "transaction_type": "RENT",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "J.K. Green",
+        "category_tags": [
+          "art_gallery",
+          " museum"
+        ]
+      },
+      {
+        "timestamp": "2023-02-13T20:47:00",
+        "amount": 5948.98,
+        "financial_metadata": {
+          "currency": "ZAR",
+          "transaction_type": "      MASTER CARD",
+          "recommendations": {
+            "PENDING": 2,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 2,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "The Tea Lounge",
+        "category_tags": [
+          "streaming service"
+        ]
+      },
+      {
+        "timestamp": "2023-03-13T14:50:00",
+        "amount": 5948.98,
+        "financial_metadata": {
+          "currency": "CNY",
+          "transaction_type": "BILLING",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 5,
+            "NOT_RECOMMENDED": 3,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 10,
+            "RECOMMENDED_FOR_FAMILY": 15,
+            "RECOMMENDED_FOR_DATE": 10,
+            "RECOMMENDED_FOR_MYSELF": 10,
+            "RECOMMENDED_FOR_FRIENDS": 15
+          }
+        },
+        "counterparty": "Brian Williams",
+        "category_tags": [
+          "clothing",
+          "store",
+          "sportswear"
+        ]
+      },
+      {
+        "timestamp": "2023-04-19T07:11:00",
+        "amount": 5948.98,
+        "financial_metadata": {
+          "currency": "JPY",
+          "transaction_type": "REVERSAL",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "AMAZON WEB SERVICES AWScxz.nl",
+        "category_tags": [
+          "store",
+          " clothes"
+        ]
+      },
+      {
+        "timestamp": "2023-05-02T11:01:00",
+        "amount": 5948.98,
+        "financial_metadata": {
+          "currency": "Euro",
+          "transaction_type": "TRANSFER PAYMENT",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 2,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "John \ud83c\udf38",
+        "category_tags": [
+          "music_education",
+          " piano_tutoring"
+        ]
+      },
+      {
+        "timestamp": "2023-06-13T09:35:00",
+        "amount": 5948.98,
+        "financial_metadata": {
+          "currency": "DKK",
+          "transaction_type": "TRANSER_PAYMENT",
+          "recommendations": {
+            "PENDING": 10,
+            "SKIPPED": 5,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 2,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 12,
+            "RECOMMENDED_FOR_DATE": 20,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "De Bakkerswinkel",
+        "category_tags": [
+          "cafe",
+          " entertainment"
+        ]
+      },
+      {
+        "timestamp": "2023-07-08T23:19:00",
+        "amount": 5948.98,
+        "financial_metadata": {
+          "currency": "CZK",
+          "transaction_type": "PAYROLL",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 10,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 5,
+            "RECOMMENDED_FOR_FRIENDS": 5
+          }
+        },
+        "counterparty": "PLAZA INN",
+        "category_tags": [
+          "consulting",
+          " business",
+          " professional"
+        ]
+      },
+      {
+        "timestamp": "2023-08-08T10:05:00",
+        "amount": 5948.98,
+        "financial_metadata": {
+          "currency": "INR",
+          "transaction_type": "ADOR",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Tech.red DE GmbH",
+        "category_tags": [
+          "grocery",
+          " organic"
+        ]
+      },
+      {
+        "timestamp": "2023-09-04T03:11:00",
+        "amount": 5948.98,
+        "financial_metadata": {
+          "currency": "PLN",
+          "transaction_type": "REQUEST",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 5,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "NovaEnergies",
+        "category_tags": [
+          "online_sales",
+          " ecommerce",
+          " software"
+        ]
+      },
+      {
+        "timestamp": "2023-10-28T01:31:00",
+        "amount": 5948.98,
+        "financial_metadata": {
+          "currency": "CNY",
+          "transaction_type": "TRANSFERENCE",
+          "recommendations": {
+            "PENDING": 3,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 2,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "JO'S DINER",
+        "category_tags": [
+          "super_market",
+          " grocery_store",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2023-11-18T13:59:00",
+        "amount": 5948.98,
+        "financial_metadata": {
+          "currency": "MYR",
+          "transaction_type": "ADIEN",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 4,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 7,
+            "RECOMMENDED_FOR_FRIENDS": 2
+          }
+        },
+        "counterparty": "W. Sanders",
+        "category_tags": [
+          "restaurant",
+          "  cityview"
+        ]
+      },
+      {
+        "timestamp": "2023-12-07T01:14:00",
+        "amount": 5948.98,
+        "financial_metadata": {
+          "currency": "HKD",
+          "transaction_type": "TOP UP",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 5,
+            "RECOMMENDED_UNCATEGORIZED": 8,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 4,
+            "RECOMMENDED_FOR_DATE": 6,
+            "RECOMMENDED_FOR_MYSELF": 3,
+            "RECOMMENDED_FOR_FRIENDS": 5
+          }
+        },
+        "counterparty": "STOCKYARDS SAUNA",
+        "category_tags": [
+          "cafe",
+          " restaurant",
+          " food"
+        ]
+      },
+      {
+        "timestamp": "2024-01-21T03:11:00",
+        "amount": 6246.43,
+        "financial_metadata": {
+          "currency": "SAR",
+          "transaction_type": "IBAN",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "MERCURE HOTEL",
+        "category_tags": [
+          "pastry",
+          " cafe",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2024-02-13T08:11:00",
+        "amount": 6246.43,
+        "financial_metadata": {
+          "currency": "USD",
+          "transaction_type": "WISE",
+          "recommendations": {
+            "PENDING": 2,
+            "SKIPPED": 5,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 3,
+            "RECOMMENDED_FOR_FAMILY": 6,
+            "RECOMMENDED_FOR_DATE": 2,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Margaret's Books via RapidTransfer",
+        "category_tags": [
+          "bistro",
+          "restaurant"
+        ]
+      },
+      {
+        "timestamp": "2024-03-17T23:24:00",
+        "amount": 6246.43,
+        "financial_metadata": {
+          "currency": "VND",
+          "transaction_type": "TOP UP",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 3
+          }
+        },
+        "counterparty": "Lion Holdings",
+        "category_tags": [
+          "automotive",
+          " electric_vehicle",
+          " charging_station",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2024-04-21T02:41:00",
+        "amount": 6246.43,
+        "financial_metadata": {
+          "currency": "CNY",
+          "transaction_type": "INTEREST",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 10,
+            "NOT_RECOMMENDED": 5,
+            "RECOMMENDED_UNCATEGORIZED": 30,
+            "RECOMMENDED_FOR_BUSINESS": 15,
+            "RECOMMENDED_FOR_FAMILY": 20,
+            "RECOMMENDED_FOR_DATE": 20,
+            "RECOMMENDED_FOR_MYSELF": 10,
+            "RECOMMENDED_FOR_FRIENDS": 10
+          }
+        },
+        "counterparty": "RESTAURANT MAISON",
+        "category_tags": [
+          "gastropub",
+          " bar",
+          " restaurant",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2024-05-10T17:19:00",
+        "amount": 6246.43,
+        "financial_metadata": {
+          "currency": "HUF",
+          "transaction_type": "      MASTER CARD",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 5,
+            "RECOMMENDED_FOR_FRIENDS": 2
+          }
+        },
+        "counterparty": "MUSEUM BERLIN",
+        "category_tags": [
+          "transportation",
+          " bus",
+          " travel"
+        ]
+      },
+      {
+        "timestamp": "2024-06-15T14:12:00",
+        "amount": 6246.43,
+        "financial_metadata": {
+          "currency": "KRW",
+          "transaction_type": "TRANSLINK",
+          "recommendations": {
+            "PENDING": 3,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 2,
+            "RECOMMENDED_FOR_BUSINESS": 4,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 3,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "CoffeeBlossom",
+        "category_tags": [
+          "green_energy",
+          "solar"
+        ]
+      },
+      {
+        "timestamp": "2024-07-13T18:10:00",
+        "amount": 6246.43,
+        "financial_metadata": {
+          "currency": "SGD",
+          "transaction_type": "SUBSCRIPTIONS",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 3,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Grndflr Cafe CTR",
+        "category_tags": [
+          "theatre",
+          "performing_arts"
+        ]
+      },
+      {
+        "timestamp": "2024-08-07T06:45:00",
+        "amount": 6246.43,
+        "financial_metadata": {
+          "currency": "NZD",
+          "transaction_type": "REQUEST",
+          "recommendations": {
+            "PENDING": 2,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 2,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Quickstop",
+        "category_tags": [
+          "gym",
+          " fitness"
+        ]
+      },
+      {
+        "timestamp": "2024-09-15T09:33:00",
+        "amount": 6246.43,
+        "financial_metadata": {
+          "currency": "RUB",
+          "transaction_type": "CASHBACK",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 2,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Vino Bello",
+        "category_tags": [
+          "hotel",
+          " bar",
+          " restaurant"
+        ]
+      },
+      {
+        "timestamp": "2024-10-16T04:06:00",
+        "amount": 6246.43,
+        "financial_metadata": {
+          "currency": "KES",
+          "transaction_type": "BUNQ",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 3
+          }
+        },
+        "counterparty": "Volkswagen",
+        "category_tags": [
+          "supermarket",
+          " groceries",
+          " food"
+        ]
+      },
+      {
+        "timestamp": "2024-11-22T11:44:00",
+        "amount": 6246.43,
+        "financial_metadata": {
+          "currency": "INR",
+          "transaction_type": "DEPOSIT",
+          "recommendations": {
+            "PENDING": 3,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 2,
+            "RECOMMENDED_UNCATEGORIZED": 4,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "D.B. van Williams",
+        "category_tags": [
+          "bookstore",
+          " cafe",
+          " magazines",
+          " library"
+        ]
+      },
+      {
+        "timestamp": "2024-12-12T19:04:00",
+        "amount": 6246.43,
+        "financial_metadata": {
+          "currency": "BRL",
+          "transaction_type": "BILLING",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "A. Schumacher",
+        "category_tags": [
+          "coffee_shop",
+          " restaurant",
+          " store"
+        ]
+      }
+    ]
+  },
+  "558": {
+    "rental_info": {
+      "financial_metrics": {
+        "total_transactions": 7,
+        "total_amount": 32010.19,
+        "country_distribution": {
+          "UN": 6,
+          "NL": 1
+        }
+      },
+      "geographical_insights": {
+        "cities": [
+          "Sandra Smith",
+          "Amsterdam",
+          "",
+          "Leeuwarden",
+          "John Smith",
+          "13 Cyber Street"
+        ],
+        "transaction_spread_km": 8448.95
+      }
+    },
+    "subscription_info": {
+      "total_subscriptions": 3,
+      "monthly_cost_breakdown": {
+        "AUD": 4954.42,
+        "BRL": 1399.7
+      }
+    },
+    "salary_transactions": [
+      {
+        "timestamp": "2023-01-20T10:54:00",
+        "amount": 6205.52,
+        "financial_metadata": {
+          "currency": "CAD",
+          "transaction_type": "TRANSLink",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 3,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 2
+          }
+        },
+        "counterparty": "CreditCard  *JOSEPH TAXI",
+        "category_tags": [
+          "gastropub",
+          " bar",
+          " restaurant",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2023-02-08T20:17:00",
+        "amount": 6205.52,
+        "financial_metadata": {
+          "currency": "RON",
+          "transaction_type": "SOFOFT",
+          "recommendations": {
+            "PENDING": 2,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 4,
+            "RECOMMENDED_FOR_BUSINESS": 3,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "TECHCORNER",
+        "category_tags": [
+          "online",
+          " shopping",
+          " E-commerce"
+        ]
+      },
+      {
+        "timestamp": "2023-03-11T06:05:00",
+        "amount": 6205.52,
+        "financial_metadata": {
+          "currency": "EU",
+          "transaction_type": "TRANSFER PAYMENT",
+          "recommendations": {
+            "PENDING": 5,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 20,
+            "RECOMMENDED_FOR_BUSINESS": 20,
+            "RECOMMENDED_FOR_FAMILY": 50,
+            "RECOMMENDED_FOR_DATE": 10,
+            "RECOMMENDED_FOR_MYSELF": 10,
+            "RECOMMENDED_FOR_FRIENDS": 5
+          }
+        },
+        "counterparty": "M.N. Philips",
+        "category_tags": [
+          "grocery",
+          " store",
+          " market"
+        ]
+      },
+      {
+        "timestamp": "2023-04-17T15:11:00",
+        "amount": 6205.52,
+        "financial_metadata": {
+          "currency": "EURO",
+          "transaction_type": "TRANSFERS",
+          "recommendations": {
+            "PENDING": 2,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Texas Electronics",
+        "category_tags": [
+          "farm",
+          "store"
+        ]
+      },
+      {
+        "timestamp": "2023-05-22T19:23:00",
+        "amount": 6205.52,
+        "financial_metadata": {
+          "currency": "EURO",
+          "transaction_type": "SALARY",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 5,
+            "RECOMMENDED_FOR_FAMILY": 15,
+            "RECOMMENDED_FOR_DATE": 20,
+            "RECOMMENDED_FOR_MYSELF": 10,
+            "RECOMMENDED_FOR_FRIENDS": 15
+          }
+        },
+        "counterparty": "CafeLovely",
+        "category_tags": [
+          "electric_station"
+        ]
+      },
+      {
+        "timestamp": "2023-06-16T19:01:00",
+        "amount": 6205.52,
+        "financial_metadata": {
+          "currency": "RUB",
+          "transaction_type": "BUNQ",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 2,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "J.P. van der Bergh",
+        "category_tags": [
+          "supermarket",
+          " groceries",
+          " street_market"
+        ]
+      },
+      {
+        "timestamp": "2023-07-02T10:40:00",
+        "amount": 6205.52,
+        "financial_metadata": {
+          "currency": "SGD",
+          "transaction_type": "IDEAL",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "Matrix GmbH",
+        "category_tags": [
+          "cafe",
+          " bar",
+          " nightlife"
+        ]
+      },
+      {
+        "timestamp": "2023-08-15T03:18:00",
+        "amount": 6205.52,
+        "financial_metadata": {
+          "currency": "TRY",
+          "transaction_type": "BILLING",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 3,
+            "NOT_RECOMMENDED": 2,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 4,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 3,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Zeta Ltd",
+        "category_tags": [
+          "cafe",
+          " art_gallery"
+        ]
+      },
+      {
+        "timestamp": "2023-09-02T12:10:00",
+        "amount": 6205.52,
+        "financial_metadata": {
+          "currency": "SEK",
+          "transaction_type": "PAYSAFE",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "COFFEE SHOP",
+        "category_tags": [
+          "grocery",
+          " food",
+          " drinks"
+        ]
+      }
+    ]
+  },
+  "336": {
+    "rental_info": {
+      "financial_metrics": {
+        "total_transactions": 10,
+        "total_amount": 44529.25,
+        "country_distribution": {
+          "UN": 10
+        }
+      },
+      "geographical_insights": {
+        "cities": [
+          "",
+          "Hauptstrabe 10",
+          "Ambassador Ave 3",
+          "Uk",
+          "Ca"
+        ],
+        "transaction_spread_km": 10591.12
+      }
+    },
+    "subscription_info": {
+      "total_subscriptions": 4,
+      "monthly_cost_breakdown": {
+        "RUB": 5220.13,
+        "INR": 9196.75,
+        "Euro": 3660.74,
+        "GBP": 7780.58
+      }
+    },
+    "salary_transactions": [
+      {
+        "timestamp": "2023-01-14T19:43:00",
+        "amount": 6382.05,
+        "financial_metadata": {
+          "currency": "CNY",
+          "transaction_type": "TRANSLink",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 2,
+            "RECOMMENDED_FOR_MYSELF": 5,
+            "RECOMMENDED_FOR_FRIENDS": 5
+          }
+        },
+        "counterparty": "ALDI SOTER2071",
+        "category_tags": [
+          "coffee",
+          " cafe",
+          " drinks",
+          " restaurant"
+        ]
+      },
+      {
+        "timestamp": "2023-02-16T18:08:00",
+        "amount": 6382.05,
+        "financial_metadata": {
+          "currency": "JPY",
+          "transaction_type": "PAYSAFE",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 3,
+            "RECOMMENDED_FOR_MYSELF": 5,
+            "RECOMMENDED_FOR_FRIENDS": 5
+          }
+        },
+        "counterparty": "vodafone/Viafone AB by PayMe",
+        "category_tags": [
+          "supermarket",
+          " CA",
+          " food_store"
+        ]
+      },
+      {
+        "timestamp": "2023-03-27T03:55:00",
+        "amount": 6382.05,
+        "financial_metadata": {
+          "currency": "CAD",
+          "transaction_type": "WITHDRAW",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Green Sphere",
+        "category_tags": [
+          "Supermarket",
+          " Groceries",
+          " Food"
+        ]
+      },
+      {
+        "timestamp": "2023-04-28T11:56:00",
+        "amount": 6382.05,
+        "financial_metadata": {
+          "currency": "HUF",
+          "transaction_type": "PAYMENT",
+          "recommendations": {
+            "PENDING": 3,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "COFFEEHUIS",
+        "category_tags": [
+          "cafe",
+          " french_cuisine",
+          " restaurant"
+        ]
+      },
+      {
+        "timestamp": "2023-05-12T04:36:00",
+        "amount": 6382.05,
+        "financial_metadata": {
+          "currency": "SEK",
+          "transaction_type": "REFUND",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 5,
+            "RECOMMENDED_FOR_FRIENDS": 2
+          }
+        },
+        "counterparty": "P.F. Watson",
+        "category_tags": [
+          "finance",
+          " investments",
+          " company"
+        ]
+      },
+      {
+        "timestamp": "2023-06-19T19:11:00",
+        "amount": 6382.05,
+        "financial_metadata": {
+          "currency": "SGD",
+          "transaction_type": "MONEY TRANSFER",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "Jason",
+        "category_tags": [
+          "rides",
+          " taxi",
+          " transportation"
+        ]
+      },
+      {
+        "timestamp": "2023-07-26T16:39:00",
+        "amount": 6382.05,
+        "financial_metadata": {
+          "currency": "PLN",
+          "transaction_type": "ADEYEN",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "PayFast *Phantom LTD...",
+        "category_tags": [
+          "dentist"
+        ]
+      },
+      {
+        "timestamp": "2023-08-14T13:51:00",
+        "amount": 6382.05,
+        "financial_metadata": {
+          "currency": "HKD",
+          "transaction_type": "PAYROLL",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Benny's Ice Cream",
+        "category_tags": [
+          "office",
+          "supplies"
+        ]
+      },
+      {
+        "timestamp": "2023-09-08T20:45:00",
+        "amount": 6382.05,
+        "financial_metadata": {
+          "currency": "BRL",
+          "transaction_type": "PAYSAFECASH_DEPOSIT",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 3,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 4,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 2,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "MyBookshop",
+        "category_tags": [
+          "construction",
+          "store",
+          "home"
+        ]
+      },
+      {
+        "timestamp": "2023-10-21T18:16:00",
+        "amount": 6382.05,
+        "financial_metadata": {
+          "currency": "RUB",
+          "transaction_type": "ADOR",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "D. Smith",
+        "category_tags": [
+          "Rent",
+          "House",
+          "Payments"
+        ]
+      },
+      {
+        "timestamp": "2023-11-05T05:25:00",
+        "amount": 6382.05,
+        "financial_metadata": {
+          "currency": "SGD",
+          "transaction_type": "INTERNAL",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 10,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 5
+          }
+        },
+        "counterparty": "Netflix by Paysafe",
+        "category_tags": [
+          "furniture",
+          "store",
+          "home"
+        ]
+      },
+      {
+        "timestamp": "2023-12-22T23:51:00",
+        "amount": 6382.05,
+        "financial_metadata": {
+          "currency": "SAR",
+          "transaction_type": "PURCHASE",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 3,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 2
+          }
+        },
+        "counterparty": "Mundos Store",
+        "category_tags": [
+          "store",
+          " electronics"
+        ]
+      },
+      {
+        "timestamp": "2024-01-22T01:22:00",
+        "amount": 6701.15,
+        "financial_metadata": {
+          "currency": "ARS",
+          "transaction_type": "ADIEN",
+          "recommendations": {
+            "PENDING": 3,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 2,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 3
+          }
+        },
+        "counterparty": "BTM*BreadBakers",
+        "category_tags": [
+          "restaurant",
+          "pizza"
+        ]
+      },
+      {
+        "timestamp": "2024-02-03T12:15:00",
+        "amount": 6701.15,
+        "financial_metadata": {
+          "currency": "JPY",
+          "transaction_type": "PAYSAFE_CASH",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 3,
+            "RECOMMENDED_FOR_BUSINESS": 22,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 3,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "MEATSHOP AUST NL",
+        "category_tags": [
+          "online",
+          " finance",
+          " payment"
+        ]
+      },
+      {
+        "timestamp": "2024-03-07T04:02:00",
+        "amount": 6701.15,
+        "financial_metadata": {
+          "currency": "CHF",
+          "transaction_type": "PAYSAFECASH",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 2,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "Oscar Jenkins",
+        "category_tags": [
+          "bistro",
+          " restaurant",
+          " romantic"
+        ]
+      },
+      {
+        "timestamp": "2024-04-26T07:36:00",
+        "amount": 6701.15,
+        "financial_metadata": {
+          "currency": "DKK",
+          "transaction_type": "PAYROLL",
+          "recommendations": {
+            "PENDING": 2,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 4,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Novo Corp",
+        "category_tags": [
+          "fast_food",
+          " restaurant",
+          " shop"
+        ]
+      },
+      {
+        "timestamp": "2024-05-22T00:38:00",
+        "amount": 6701.15,
+        "financial_metadata": {
+          "currency": "SAR",
+          "transaction_type": "PAYPAL",
+          "recommendations": {
+            "PENDING": 2,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 5,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 7,
+            "RECOMMENDED_FOR_FRIENDS": 5
+          }
+        },
+        "counterparty": "Society Museum",
+        "category_tags": [
+          "electronics",
+          " online",
+          " shop"
+        ]
+      },
+      {
+        "timestamp": "2024-06-07T05:40:00",
+        "amount": 6701.15,
+        "financial_metadata": {
+          "currency": "SGD",
+          "transaction_type": "PAYSAFE_CASH",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "VODAFONE HOME CO.",
+        "category_tags": [
+          "pharmacy",
+          " wellness",
+          " health"
+        ]
+      },
+      {
+        "timestamp": "2024-07-26T04:13:00",
+        "amount": 6701.15,
+        "financial_metadata": {
+          "currency": "HUF",
+          "transaction_type": "TRANSFER PAYMENT",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 8,
+            "RECOMMENDED_FOR_DATE": 3,
+            "RECOMMENDED_FOR_MYSELF": 2,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "JKO Richards",
+        "category_tags": [
+          "hotel",
+          " travel",
+          " lodging"
+        ]
+      },
+      {
+        "timestamp": "2024-08-13T08:19:00",
+        "amount": 6701.15,
+        "financial_metadata": {
+          "currency": "ARS",
+          "transaction_type": "REFUND",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 3,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "B. Zhang",
+        "category_tags": [
+          "restaurant",
+          " bar",
+          " live_music"
+        ]
+      },
+      {
+        "timestamp": "2024-09-28T12:26:00",
+        "amount": 6701.15,
+        "financial_metadata": {
+          "currency": "GBP",
+          "transaction_type": "COUPON",
+          "recommendations": {
+            "PENDING": 10,
+            "SKIPPED": 20,
+            "NOT_RECOMMENDED": 5,
+            "RECOMMENDED_UNCATEGORIZED": 50,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 65,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "HERRING*HERVEY PIETERSEN",
+        "category_tags": [
+          "e-commerce",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2024-10-10T08:09:00",
+        "amount": 6701.15,
+        "financial_metadata": {
+          "currency": "BRL",
+          "transaction_type": "SOFORT",
+          "recommendations": {
+            "PENDING": 5,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "JOHN'S BAKERY.",
+        "category_tags": [
+          "online",
+          "shopping",
+          "subscription",
+          "entertainment"
+        ]
+      },
+      {
+        "timestamp": "2024-11-02T23:57:00",
+        "amount": 6701.15,
+        "financial_metadata": {
+          "currency": "BRL",
+          "transaction_type": "FAST",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "ADYEN * NETFLIX",
+        "category_tags": [
+          "professional_services",
+          " consultancy"
+        ]
+      },
+      {
+        "timestamp": "2024-12-22T11:12:00",
+        "amount": 6701.15,
+        "financial_metadata": {
+          "currency": "EURO",
+          "transaction_type": "WISET",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 15,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 32,
+            "RECOMMENDED_FOR_FRIENDS": 78
+          }
+        },
+        "counterparty": "fastbank",
+        "category_tags": [
+          "corporation",
+          " supplier",
+          " business"
+        ]
+      }
+    ]
+  },
+  "282": {
+    "rental_info": {
+      "financial_metrics": {
+        "total_transactions": 6,
+        "total_amount": 34230.83,
+        "country_distribution": {
+          "UN": 5,
+          "NL": 1
+        }
+      },
+      "geographical_insights": {
+        "cities": [
+          "Uk",
+          "",
+          "Amsterdam",
+          "New York"
+        ],
+        "transaction_spread_km": 7560.16
+      }
+    },
+    "subscription_info": {
+      "total_subscriptions": 10,
+      "monthly_cost_breakdown": {
+        "EUR": 7608.4400000000005,
+        "RUB": 6421.09,
+        "DKK": 1895.56,
+        "CHF": 1895.56,
+        "PLN": 3850.51,
+        " USD": 2288.73,
+        "SAR": 702.68,
+        "NOK": 2374.61,
+        "ARS": 699.85
+      }
+    },
+    "salary_transactions": [
+      {
+        "timestamp": "2023-01-13T05:33:00",
+        "amount": 4902.65,
+        "financial_metadata": {
+          "currency": "NZD",
+          "transaction_type": "REVERSAL",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 3,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 2,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 5
+          }
+        },
+        "counterparty": "M.J. Robertson",
+        "category_tags": [
+          "Cinema",
+          " Movie Theatre"
+        ]
+      },
+      {
+        "timestamp": "2023-02-17T02:24:00",
+        "amount": 4902.65,
+        "financial_metadata": {
+          "currency": "DKK",
+          "transaction_type": "BABZAHLEN",
+          "recommendations": {
+            "PENDING": 2,
+            "SKIPPED": 5,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 10,
+            "RECOMMENDED_FOR_BUSINESS": 3,
+            "RECOMMENDED_FOR_FAMILY": 15,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 5,
+            "RECOMMENDED_FOR_FRIENDS": 11
+          }
+        },
+        "counterparty": "SimpliCity Cafe",
+        "category_tags": [
+          "store",
+          " clothing",
+          " shop"
+        ]
+      },
+      {
+        "timestamp": "2023-03-05T19:07:00",
+        "amount": 4902.65,
+        "financial_metadata": {
+          "currency": " USD",
+          "transaction_type": "PAYMENT",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 2,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 3
+          }
+        },
+        "counterparty": "B.J. Retail Services",
+        "category_tags": [
+          "clothing_store"
+        ]
+      },
+      {
+        "timestamp": "2023-04-17T03:30:00",
+        "amount": 4902.65,
+        "financial_metadata": {
+          "currency": "JPY",
+          "transaction_type": "PAYPAL",
+          "recommendations": {
+            "PENDING": 15,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 5,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 10,
+            "RECOMMENDED_FOR_DATE": 2,
+            "RECOMMENDED_FOR_MYSELF": 4,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Apple Store",
+        "category_tags": [
+          "parking",
+          " hospital"
+        ]
+      },
+      {
+        "timestamp": "2023-05-24T15:15:00",
+        "amount": 4902.65,
+        "financial_metadata": {
+          "currency": "RON",
+          "transaction_type": "MASTERDARD",
+          "recommendations": {
+            "PENDING": 2,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 3,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 3
+          }
+        },
+        "counterparty": "Corner Bakery",
+        "category_tags": [
+          "interest",
+          " deposit",
+          " bank"
+        ]
+      },
+      {
+        "timestamp": "2023-06-26T22:49:00",
+        "amount": 4902.65,
+        "financial_metadata": {
+          "currency": "ARS",
+          "transaction_type": "WISE",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 3,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 2
+          }
+        },
+        "counterparty": "Bookstore Read'n'Joy",
+        "category_tags": [
+          "video_conferencing",
+          " online_meeting"
+        ]
+      },
+      {
+        "timestamp": "2023-07-12T11:24:00",
+        "amount": 4902.65,
+        "financial_metadata": {
+          "currency": " USD",
+          "transaction_type": "PAYSAFECASH_DEPOSIT",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 4,
+            "RECOMMENDED_FOR_FRIENDS": 6
+          }
+        },
+        "counterparty": "STEAKHOUSE JACK LONDON",
+        "category_tags": [
+          "supermarket",
+          " retail",
+          " grocery"
+        ]
+      },
+      {
+        "timestamp": "2023-08-11T03:44:00",
+        "amount": 4902.65,
+        "financial_metadata": {
+          "currency": "MYR",
+          "transaction_type": "MASTERCARD",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 2,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 2,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "K.R. Smith",
+        "category_tags": [
+          "professional_services",
+          " consultancy"
+        ]
+      },
+      {
+        "timestamp": "2023-09-07T18:35:00",
+        "amount": 4902.65,
+        "financial_metadata": {
+          "currency": "KRW",
+          "transaction_type": "TRANSFERS",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 80,
+            "NOT_RECOMMENDED": 23,
+            "RECOMMENDED_UNCATEGORIZED": 115,
+            "RECOMMENDED_FOR_BUSINESS": 30,
+            "RECOMMENDED_FOR_FAMILY": 80,
+            "RECOMMENDED_FOR_DATE": 60,
+            "RECOMMENDED_FOR_MYSELF": 50,
+            "RECOMMENDED_FOR_FRIENDS": 145
+          }
+        },
+        "counterparty": "T-Systems",
+        "category_tags": [
+          "internet",
+          " advertising"
+        ]
+      },
+      {
+        "timestamp": "2023-10-18T05:00:00",
+        "amount": 4902.65,
+        "financial_metadata": {
+          "currency": "             USD",
+          "transaction_type": "TRANSFER_PAYMENT",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 2,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Teddy Coffee Shop",
+        "category_tags": [
+          "restaurant",
+          "bar",
+          "cafe"
+        ]
+      },
+      {
+        "timestamp": "2023-11-16T16:30:00",
+        "amount": 4902.65,
+        "financial_metadata": {
+          "currency": "NOK",
+          "transaction_type": "SOFROT",
+          "recommendations": {
+            "PENDING": 5,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 3,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "AB COMPANY INC",
+        "category_tags": [
+          "online",
+          " shopping",
+          " eCommerce"
+        ]
+      },
+      {
+        "timestamp": "2023-12-09T05:48:00",
+        "amount": 4902.65,
+        "financial_metadata": {
+          "currency": "ZAR",
+          "transaction_type": "WITHDRAW",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 3
+          }
+        },
+        "counterparty": "Vertex Ltd",
+        "category_tags": [
+          "online_store",
+          " electronics_store",
+          " clothing_store",
+          " home_goods_store",
+          " store"
+        ]
+      }
+    ]
+  },
+  "334": {
+    "rental_info": {
+      "financial_metrics": {
+        "total_transactions": 7,
+        "total_amount": 16863.09,
+        "country_distribution": {
+          "UN": 6,
+          "NL": 1
+        }
+      },
+      "geographical_insights": {
+        "cities": [
+          "",
+          "Ny 10028",
+          "Uk",
+          "Utrecht",
+          "Maple Ave"
+        ],
+        "transaction_spread_km": 2103.7
+      }
+    },
+    "subscription_info": {
+      "total_subscriptions": 5,
+      "monthly_cost_breakdown": {
+        "CZK": 2111.49,
+        "NZD": 11723.6,
+        "Euro": 4894.44,
+        "HKD": 8079.94
+      }
+    },
+    "salary_transactions": [
+      {
+        "timestamp": "2023-01-21T09:10:00",
+        "amount": 3082.91,
+        "financial_metadata": {
+          "currency": "TRY",
+          "transaction_type": "ADYEN",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 2,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 2,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "FGH*MBISON FUTURES",
+        "category_tags": [
+          "sportswear_store",
+          " shoe_store",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2023-02-09T12:52:00",
+        "amount": 3082.91,
+        "financial_metadata": {
+          "currency": "IQD",
+          "transaction_type": "WISET",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 3,
+            "RECOMMENDED_FOR_FAMILY": 4,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 2
+          }
+        },
+        "counterparty": "La Patisserie Toulouse",
+        "category_tags": [
+          "diner",
+          " food",
+          " restaurant"
+        ]
+      },
+      {
+        "timestamp": "2023-03-05T03:59:00",
+        "amount": 3082.91,
+        "financial_metadata": {
+          "currency": "KES",
+          "transaction_type": "EBAY_PAYPAL",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Bakkerij Bart",
+        "category_tags": [
+          "bookstore",
+          " college",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2023-04-08T13:34:00",
+        "amount": 3082.91,
+        "financial_metadata": {
+          "currency": "USD",
+          "transaction_type": "PAYSAFE",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "R Bennett-Green e/o J Bennett-Green",
+        "category_tags": [
+          "Pub",
+          " bar"
+        ]
+      },
+      {
+        "timestamp": "2023-05-14T03:31:00",
+        "amount": 3082.91,
+        "financial_metadata": {
+          "currency": "KRW",
+          "transaction_type": "SOFT",
+          "recommendations": {
+            "PENDING": 2,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 3,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "COFFEE WORLD",
+        "category_tags": [
+          "online shopping",
+          " subscriptions",
+          " entertainment"
+        ]
+      },
+      {
+        "timestamp": "2023-06-07T15:51:00",
+        "amount": 3082.91,
+        "financial_metadata": {
+          "currency": "             USD",
+          "transaction_type": "RENT",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 2
+          }
+        },
+        "counterparty": "LB*SAVORY SPICES",
+        "category_tags": [
+          "finance",
+          " company",
+          " payroll"
+        ]
+      },
+      {
+        "timestamp": "2023-07-25T02:14:00",
+        "amount": 3082.91,
+        "financial_metadata": {
+          "currency": "SAR",
+          "transaction_type": "FAST",
+          "recommendations": {
+            "PENDING": 3,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 4,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 5,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "T.P. Murugan",
+        "category_tags": [
+          "restaurant",
+          " cafe",
+          " metro"
+        ]
+      },
+      {
+        "timestamp": "2023-08-18T15:26:00",
+        "amount": 3082.91,
+        "financial_metadata": {
+          "currency": "NZD",
+          "transaction_type": "SOFORT",
+          "recommendations": {
+            "PENDING": 2,
+            "SKIPPED": 3,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 12,
+            "RECOMMENDED_FOR_BUSINESS": 10,
+            "RECOMMENDED_FOR_FAMILY": 7,
+            "RECOMMENDED_FOR_DATE": 8,
+            "RECOMMENDED_FOR_MYSELF": 4,
+            "RECOMMENDED_FOR_FRIENDS": 5
+          }
+        },
+        "counterparty": "Total Direct Energie",
+        "category_tags": [
+          "cafe",
+          " beverages"
+        ]
+      },
+      {
+        "timestamp": "2023-09-07T01:35:00",
+        "amount": 3082.91,
+        "financial_metadata": {
+          "currency": "IQD",
+          "transaction_type": "TRANSFERS",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "D.A. Smithson",
+        "category_tags": [
+          "payment",
+          " online",
+          " software"
+        ]
+      },
+      {
+        "timestamp": "2023-10-19T06:49:00",
+        "amount": 3082.91,
+        "financial_metadata": {
+          "currency": "CNY",
+          "transaction_type": "SOFT",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 3,
+            "RECOMMENDED_FOR_MYSELF": 2,
+            "RECOMMENDED_FOR_FRIENDS": 4
+          }
+        },
+        "counterparty": "Bakers and Chefs.",
+        "category_tags": [
+          "cloud",
+          "services"
+        ]
+      },
+      {
+        "timestamp": "2023-11-01T03:28:00",
+        "amount": 3082.91,
+        "financial_metadata": {
+          "currency": "HKD",
+          "transaction_type": "MASTER",
+          "recommendations": {
+            "PENDING": 3,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 4,
+            "RECOMMENDED_FOR_BUSINESS": 5,
+            "RECOMMENDED_FOR_FAMILY": 10,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 15,
+            "RECOMMENDED_FOR_FRIENDS": 8
+          }
+        },
+        "counterparty": "ABC CAFE SIP & BITE",
+        "category_tags": [
+          "ecommerce",
+          " bookstore",
+          " electronics"
+        ]
+      }
+    ]
+  },
+  "102": {
+    "rental_info": {
+      "financial_metrics": {
+        "total_transactions": 5,
+        "total_amount": 34360.52,
+        "country_distribution": {
+          "UN": 5
+        }
+      },
+      "geographical_insights": {
+        "cities": [
+          "",
+          "Uk",
+          "Raleigh",
+          "Blanc"
+        ],
+        "transaction_spread_km": 8469.39
+      }
+    },
+    "subscription_info": {
+      "total_subscriptions": 4,
+      "monthly_cost_breakdown": {
+        "CNY": 1348.1,
+        "VND": 6683.05,
+        "HKD": 5808.72,
+        "DKK": 7780.58
+      }
+    },
+    "salary_transactions": [
+      {
+        "timestamp": "2023-01-12T18:13:00",
+        "amount": 3470.59,
+        "financial_metadata": {
+          "currency": "DKK",
+          "transaction_type": "MASTERACRD",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 4,
+            "RECOMMENDED_FOR_FAMILY": 9,
+            "RECOMMENDED_FOR_DATE": 6,
+            "RECOMMENDED_FOR_MYSELF": 5,
+            "RECOMMENDED_FOR_FRIENDS": 3
+          }
+        },
+        "counterparty": "MasterCard Global Services",
+        "category_tags": [
+          "convenience store",
+          " shop"
+        ]
+      },
+      {
+        "timestamp": "2023-02-10T20:24:00",
+        "amount": 3470.59,
+        "financial_metadata": {
+          "currency": "IQD",
+          "transaction_type": "TRANSFER_PAYMENT",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 2,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "POWERPLANT",
+        "category_tags": [
+          "online",
+          " internet",
+          " shopping"
+        ]
+      },
+      {
+        "timestamp": "2023-03-24T14:13:00",
+        "amount": 3470.59,
+        "financial_metadata": {
+          "currency": "AUD",
+          "transaction_type": "MASTERDARD",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 3,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "TFL",
+        "category_tags": [
+          "cafe",
+          " salad_bar"
+        ]
+      },
+      {
+        "timestamp": "2023-04-06T19:31:00",
+        "amount": 3470.59,
+        "financial_metadata": {
+          "currency": "KES",
+          "transaction_type": "IBAN",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 7,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "HEARTWOOD CABIN - CALABASAS",
+        "category_tags": [
+          "store",
+          " shopping",
+          " clothing"
+        ]
+      },
+      {
+        "timestamp": "2023-05-09T06:46:00",
+        "amount": 3470.59,
+        "financial_metadata": {
+          "currency": "EUR",
+          "transaction_type": "COUPON",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 2,
+            "RECOMMENDED_FOR_MYSELF": 2,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Ectron",
+        "category_tags": [
+          "cloud_services"
+        ]
+      },
+      {
+        "timestamp": "2023-06-22T08:10:00",
+        "amount": 3470.59,
+        "financial_metadata": {
+          "currency": "IQD",
+          "transaction_type": "TRANSFERS",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Italian Trattoria Da Roma",
+        "category_tags": [
+          "restaurant"
+        ]
+      },
+      {
+        "timestamp": "2023-07-04T03:37:00",
+        "amount": 3470.59,
+        "financial_metadata": {
+          "currency": "KRW",
+          "transaction_type": "EBAY_PAYPAL",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 5,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 2
+          }
+        },
+        "counterparty": "William",
+        "category_tags": [
+          "book_store"
+        ]
+      },
+      {
+        "timestamp": "2023-08-27T04:19:00",
+        "amount": 3470.59,
+        "financial_metadata": {
+          "currency": "AED",
+          "transaction_type": "SOOFT",
+          "recommendations": {
+            "PENDING": 5,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 2,
+            "RECOMMENDED_UNCATEGORIZED": 3,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 2,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "bunq CO.",
+        "category_tags": [
+          "services",
+          " IT",
+          " technology"
+        ]
+      },
+      {
+        "timestamp": "2023-09-25T13:56:00",
+        "amount": 3470.59,
+        "financial_metadata": {
+          "currency": "NOK",
+          "transaction_type": "TRANSFER",
+          "recommendations": {
+            "PENDING": 2,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 3,
+            "RECOMMENDED_FOR_BUSINESS": 4,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 2,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "IL CAFFE DI ROMA",
+        "category_tags": [
+          "cafe",
+          " restaurant",
+          " dining"
+        ]
+      },
+      {
+        "timestamp": "2023-10-07T19:55:00",
+        "amount": 3470.59,
+        "financial_metadata": {
+          "currency": "NZD",
+          "transaction_type": "WITHDRAWAL",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Amanda Williams",
+        "category_tags": [
+          "e-commerce",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2023-11-05T20:08:00",
+        "amount": 3470.59,
+        "financial_metadata": {
+          "currency": "GBP",
+          "transaction_type": "TRANSFERS",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 2,
+            "RECOMMENDED_FOR_MYSELF": 4,
+            "RECOMMENDED_FOR_FRIENDS": 5
+          }
+        },
+        "counterparty": "D.A. Smithson",
+        "category_tags": [
+          "store",
+          "shopping",
+          "art"
+        ]
+      },
+      {
+        "timestamp": "2023-12-08T00:02:00",
+        "amount": 3470.59,
+        "financial_metadata": {
+          "currency": "             USD",
+          "transaction_type": "BARZAHLEN",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 3,
+            "RECOMMENDED_FOR_FAMILY": 4,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 2
+          }
+        },
+        "counterparty": "AB 32029",
+        "category_tags": [
+          "printing",
+          " office_supplies"
+        ]
+      },
+      {
+        "timestamp": "2024-01-11T05:33:00",
+        "amount": 3644.12,
+        "financial_metadata": {
+          "currency": "GBP",
+          "transaction_type": "BABZAHLEN",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 5,
+            "RECOMMENDED_FOR_DATE": 10,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 20
+          }
+        },
+        "counterparty": "Pizza Bella",
+        "category_tags": [
+          "hotel",
+          " resort",
+          " vacation"
+        ]
+      },
+      {
+        "timestamp": "2024-02-18T05:07:00",
+        "amount": 3644.12,
+        "financial_metadata": {
+          "currency": "CHF",
+          "transaction_type": "SOOFT",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "AMAZON MARKETPLACE DE",
+        "category_tags": [
+          "online",
+          " shopping",
+          " electronics",
+          " books"
+        ]
+      },
+      {
+        "timestamp": "2024-03-11T10:54:00",
+        "amount": 3644.12,
+        "financial_metadata": {
+          "currency": "GBP",
+          "transaction_type": "WISE",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 2,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "STARBUCKS #115",
+        "category_tags": [
+          "utilities",
+          " energy"
+        ]
+      },
+      {
+        "timestamp": "2024-04-25T07:45:00",
+        "amount": 3644.12,
+        "financial_metadata": {
+          "currency": "EU",
+          "transaction_type": "MASTERCARD",
+          "recommendations": {
+            "PENDING": 10,
+            "SKIPPED": 5,
+            "NOT_RECOMMENDED": 2,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 7,
+            "RECOMMENDED_FOR_FAMILY": 9,
+            "RECOMMENDED_FOR_DATE": 4,
+            "RECOMMENDED_FOR_MYSELF": 8,
+            "RECOMMENDED_FOR_FRIENDS": 10
+          }
+        },
+        "counterparty": "X.Y.P.Z. Corporation",
+        "category_tags": [
+          "tech_store",
+          " electronics",
+          " computer"
+        ]
+      },
+      {
+        "timestamp": "2024-05-13T13:46:00",
+        "amount": 3644.12,
+        "financial_metadata": {
+          "currency": "AUD",
+          "transaction_type": "MASTER",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 2,
+            "RECOMMENDED_UNCATEGORIZED": 3,
+            "RECOMMENDED_FOR_BUSINESS": 4,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 3,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 2
+          }
+        },
+        "counterparty": "FOOD LAND",
+        "category_tags": [
+          "restaurant",
+          " Italian"
+        ]
+      },
+      {
+        "timestamp": "2024-06-09T14:17:00",
+        "amount": 3644.12,
+        "financial_metadata": {
+          "currency": "USD",
+          "transaction_type": "MASTERACRD",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Calvin Utilities / London Municipality",
+        "category_tags": [
+          "market",
+          " grocery",
+          " food"
+        ]
+      },
+      {
+        "timestamp": "2024-07-09T02:39:00",
+        "amount": 3644.12,
+        "financial_metadata": {
+          "currency": "RON",
+          "transaction_type": "PAYSAFECASH_DEPOSIT",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "S.A. Philip",
+        "category_tags": [
+          "gas",
+          " travel"
+        ]
+      },
+      {
+        "timestamp": "2024-08-15T04:43:00",
+        "amount": 3644.12,
+        "financial_metadata": {
+          "currency": "             USD",
+          "transaction_type": "CASHBACK",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 2,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 2,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "KFC*Central CBD",
+        "category_tags": [
+          "store",
+          " shopping"
+        ]
+      },
+      {
+        "timestamp": "2024-09-27T19:51:00",
+        "amount": 3644.12,
+        "financial_metadata": {
+          "currency": "CHF",
+          "transaction_type": "EBAY_PAYPAL",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "H.E. Baker",
+        "category_tags": [
+          "office",
+          " software"
+        ]
+      },
+      {
+        "timestamp": "2024-10-21T23:52:00",
+        "amount": 3644.12,
+        "financial_metadata": {
+          "currency": "NOK",
+          "transaction_type": "RENT",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 2
+          }
+        },
+        "counterparty": "kfc utrech store",
+        "category_tags": [
+          "restaurant",
+          " pizza",
+          " take away"
+        ]
+      },
+      {
+        "timestamp": "2024-11-12T16:52:00",
+        "amount": 3644.12,
+        "financial_metadata": {
+          "currency": "JPY",
+          "transaction_type": "TRANSFER_PAYMENT",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "JOHN'S DONUTS",
+        "category_tags": [
+          "restaurant",
+          " food delivery"
+        ]
+      }
+    ]
+  },
+  "388": {
+    "rental_info": {
+      "financial_metrics": {
+        "total_transactions": 6,
+        "total_amount": 27370.43,
+        "country_distribution": {
+          "NL": 1,
+          "UN": 5
+        }
+      },
+      "geographical_insights": {
+        "cities": [
+          "Amsterdam",
+          "",
+          "Vodafone Group"
+        ],
+        "transaction_spread_km": 7269.79
+      }
+    },
+    "subscription_info": {
+      "total_subscriptions": 13,
+      "monthly_cost_breakdown": {
+        "CHF": 5730.12,
+        "ZAR": 2001.27,
+        "AED": 1348.1,
+        "CAD": 1799.72,
+        "IQD": 2111.49,
+        "JPY": 9828.04,
+        "RON": 6421.09,
+        "AUD": 1948.46,
+        "USD": 8079.94,
+        "PLN": 1895.56,
+        "EURO": 5010.34
+      }
+    },
+    "salary_transactions": [
+      {
+        "timestamp": "2023-01-15T21:32:00",
+        "amount": 5292.05,
+        "financial_metadata": {
+          "currency": "VND",
+          "transaction_type": "MASATERCARD",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Deutsche Bank",
+        "category_tags": [
+          "restaurant",
+          " italiano"
+        ]
+      },
+      {
+        "timestamp": "2023-02-15T14:36:00",
+        "amount": 5292.05,
+        "financial_metadata": {
+          "currency": "EU",
+          "transaction_type": "TOP UP",
+          "recommendations": {
+            "PENDING": 10,
+            "SKIPPED": 15,
+            "NOT_RECOMMENDED": 2,
+            "RECOMMENDED_UNCATEGORIZED": 40,
+            "RECOMMENDED_FOR_BUSINESS": 30,
+            "RECOMMENDED_FOR_FAMILY": 20,
+            "RECOMMENDED_FOR_DATE": 25,
+            "RECOMMENDED_FOR_MYSELF": 15,
+            "RECOMMENDED_FOR_FRIENDS": 10
+          }
+        },
+        "counterparty": "Mr J S Patel and/or Mrs K S Taylor",
+        "category_tags": [
+          "hotel",
+          " booking",
+          " travel",
+          " online"
+        ]
+      },
+      {
+        "timestamp": "2023-03-25T16:58:00",
+        "amount": 5292.05,
+        "financial_metadata": {
+          "currency": "CAD",
+          "transaction_type": "WISET",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 5,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "BLUE BIRD COFFEE",
+        "category_tags": [
+          "online",
+          " streaming service"
+        ]
+      },
+      {
+        "timestamp": "2023-04-19T04:02:00",
+        "amount": 5292.05,
+        "financial_metadata": {
+          "currency": "TRY",
+          "transaction_type": "BARZAHLEN",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 2,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 5
+          }
+        },
+        "counterparty": "ABE*JAVA CAFE",
+        "category_tags": [
+          "restaurant",
+          " wine_bar"
+        ]
+      },
+      {
+        "timestamp": "2023-05-14T18:13:00",
+        "amount": 5292.05,
+        "financial_metadata": {
+          "currency": "ARS",
+          "transaction_type": "SOFTORT",
+          "recommendations": {
+            "PENDING": 7,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 6,
+            "RECOMMENDED_UNCATEGORIZED": 3,
+            "RECOMMENDED_FOR_BUSINESS": 12,
+            "RECOMMENDED_FOR_FAMILY": 4,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 6,
+            "RECOMMENDED_FOR_FRIENDS": 5
+          }
+        },
+        "counterparty": "Municipal Services",
+        "category_tags": [
+          "supermarket",
+          " grocery_store",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2023-06-07T16:18:00",
+        "amount": 5292.05,
+        "financial_metadata": {
+          "currency": "EURO",
+          "transaction_type": "TRANSFER PAYMENT",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 2,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Walgreens",
+        "category_tags": [
+          "bakery",
+          " grocery_store"
+        ]
+      },
+      {
+        "timestamp": "2023-07-26T23:55:00",
+        "amount": 5292.05,
+        "financial_metadata": {
+          "currency": "GBP",
+          "transaction_type": "ADIYEN",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "Home Depot",
+        "category_tags": [
+          "restaurant",
+          " pizza",
+          " italian"
+        ]
+      },
+      {
+        "timestamp": "2023-08-12T04:13:00",
+        "amount": 5292.05,
+        "financial_metadata": {
+          "currency": "SEK",
+          "transaction_type": "SUBSCRIPTION",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 2,
+            "RECOMMENDED_FOR_BUSINESS": 3,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "J.T. Blackstone",
+        "category_tags": [
+          "electronics",
+          " online_marketplace"
+        ]
+      },
+      {
+        "timestamp": "2023-09-05T19:38:00",
+        "amount": 5292.05,
+        "financial_metadata": {
+          "currency": "MYR",
+          "transaction_type": "TRANSLink",
+          "recommendations": {
+            "PENDING": 5,
+            "SKIPPED": 8,
+            "NOT_RECOMMENDED": 2,
+            "RECOMMENDED_UNCATEGORIZED": 10,
+            "RECOMMENDED_FOR_BUSINESS": 5,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 4,
+            "RECOMMENDED_FOR_FRIENDS": 3
+          }
+        },
+        "counterparty": "Amazon EC2 * PENDING",
+        "category_tags": [
+          "cinema",
+          " night_club",
+          " bar"
+        ]
+      },
+      {
+        "timestamp": "2023-10-19T03:26:00",
+        "amount": 5292.05,
+        "financial_metadata": {
+          "currency": "MYR",
+          "transaction_type": "INVOICE",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Pixel Corp.",
+        "category_tags": [
+          "shopping",
+          " online",
+          " books"
+        ]
+      },
+      {
+        "timestamp": "2023-11-05T14:59:00",
+        "amount": 5292.05,
+        "financial_metadata": {
+          "currency": "USD",
+          "transaction_type": "MASATERCARD",
+          "recommendations": {
+            "PENDING": 4,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 3,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 5,
+            "RECOMMENDED_FOR_FRIENDS": 7
+          }
+        },
+        "counterparty": "BEST COFFEE SPOT",
+        "category_tags": [
+          "Sauna",
+          " wellness_centre"
+        ]
+      },
+      {
+        "timestamp": "2023-12-18T13:00:00",
+        "amount": 5292.05,
+        "financial_metadata": {
+          "currency": "USD",
+          "transaction_type": "PAYCHECK",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 2,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "James Davis",
+        "category_tags": [
+          "grocery",
+          " organic",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2023-11-08T09:16:00",
+        "amount": 3237.36,
+        "financial_metadata": {
+          "currency": "Euro",
+          "transaction_type": "REFUND",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 5,
+            "RECOMMENDED_FOR_FAMILY": 13,
+            "RECOMMENDED_FOR_DATE": 10,
+            "RECOMMENDED_FOR_MYSELF": 7,
+            "RECOMMENDED_FOR_FRIENDS": 8
+          }
+        },
+        "counterparty": "Alpha*COFFEE",
+        "category_tags": [
+          "theatre",
+          " entertainment",
+          " live_shows"
+        ]
+      }
+    ]
+  },
+  "207": {
+    "rental_info": {
+      "financial_metrics": {
+        "total_transactions": 5,
+        "total_amount": 30283.94,
+        "country_distribution": {
+          "NL": 1,
+          "UN": 4
+        }
+      },
+      "geographical_insights": {
+        "cities": [
+          "Groningen",
+          "Baker Street 23",
+          "Uk",
+          "",
+          "High St"
+        ],
+        "transaction_spread_km": 6283.72
+      }
+    },
+    "subscription_info": {
+      "total_subscriptions": 8,
+      "monthly_cost_breakdown": {
+        "EUR": 9879.66,
+        "GBP": 5037.08,
+        "RUB": 6123.78,
+        "AUD": 8761.03,
+        "EURO": 8761.03,
+        "Euro": 7780.58
+      }
+    },
+    "salary_transactions": [
+      {
+        "timestamp": "2023-01-13T13:27:00",
+        "amount": 7066.8,
+        "financial_metadata": {
+          "currency": "CHF",
+          "transaction_type": "REQUEST",
+          "recommendations": {
+            "PENDING": 2,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 5,
+            "RECOMMENDED_FOR_DATE": 2,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "Bosch",
+        "category_tags": [
+          "sports",
+          " shopping"
+        ]
+      },
+      {
+        "timestamp": "2023-02-28T21:09:00",
+        "amount": 7066.8,
+        "financial_metadata": {
+          "currency": "ZAR",
+          "transaction_type": "IBAN",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 3
+          }
+        },
+        "counterparty": "M. Anderson",
+        "category_tags": [
+          "Digital goods",
+          " apps",
+          " subscription"
+        ]
+      },
+      {
+        "timestamp": "2023-03-21T19:10:00",
+        "amount": 7066.8,
+        "financial_metadata": {
+          "currency": "AUD",
+          "transaction_type": "PAYSAFE_CASH",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Carrefour 4587",
+        "category_tags": [
+          "restaurant",
+          " seafood"
+        ]
+      },
+      {
+        "timestamp": "2023-04-22T00:00:00",
+        "amount": 7066.8,
+        "financial_metadata": {
+          "currency": "TRY",
+          "transaction_type": "PAYROLL",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 3,
+            "RECOMMENDED_FOR_MYSELF": 2,
+            "RECOMMENDED_FOR_FRIENDS": 2
+          }
+        },
+        "counterparty": "D.S. Hopkins",
+        "category_tags": [
+          "grocery store"
+        ]
+      },
+      {
+        "timestamp": "2023-05-06T11:40:00",
+        "amount": 7066.8,
+        "financial_metadata": {
+          "currency": "KES",
+          "transaction_type": "TRANSFER",
+          "recommendations": {
+            "PENDING": 2,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 2
+          }
+        },
+        "counterparty": "MyBookshop",
+        "category_tags": [
+          "station",
+          " car",
+          " fuel"
+        ]
+      },
+      {
+        "timestamp": "2023-06-08T16:02:00",
+        "amount": 7066.8,
+        "financial_metadata": {
+          "currency": "EURO",
+          "transaction_type": "PURCHASE",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 5,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 4,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "M J Edwards",
+        "category_tags": [
+          "telecommunications",
+          " internet_service_provider"
+        ]
+      },
+      {
+        "timestamp": "2023-07-11T02:47:00",
+        "amount": 7066.8,
+        "financial_metadata": {
+          "currency": "HUF",
+          "transaction_type": "Wise",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 2,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "STARBUCKS CORPORATION",
+        "category_tags": [
+          "cafe",
+          " tea",
+          " restaurant"
+        ]
+      },
+      {
+        "timestamp": "2023-08-22T20:59:00",
+        "amount": 7066.8,
+        "financial_metadata": {
+          "currency": "IQD",
+          "transaction_type": "TOP UP",
+          "recommendations": {
+            "PENDING": 15,
+            "SKIPPED": 5,
+            "NOT_RECOMMENDED": 10,
+            "RECOMMENDED_UNCATEGORIZED": 25,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 5,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "TECH SOLUTIONS ROTTERDAM",
+        "category_tags": [
+          "store",
+          " organic",
+          " grocery"
+        ]
+      },
+      {
+        "timestamp": "2023-09-08T23:04:00",
+        "amount": 7066.8,
+        "financial_metadata": {
+          "currency": "HKD",
+          "transaction_type": "MONEY_TRANSFER",
+          "recommendations": {
+            "PENDING": 5,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 2,
+            "RECOMMENDED_UNCATEGORIZED": 10,
+            "RECOMMENDED_FOR_BUSINESS": 15,
+            "RECOMMENDED_FOR_FAMILY": 20,
+            "RECOMMENDED_FOR_DATE": 25,
+            "RECOMMENDED_FOR_MYSELF": 20,
+            "RECOMMENDED_FOR_FRIENDS": 22
+          }
+        },
+        "counterparty": "AMAZON * QKXT3JNYCE",
+        "category_tags": [
+          "restaurant",
+          " pizza place"
+        ]
+      },
+      {
+        "timestamp": "2023-10-26T14:22:00",
+        "amount": 7066.8,
+        "financial_metadata": {
+          "currency": "Euro",
+          "transaction_type": "INVOICE",
+          "recommendations": {
+            "PENDING": 2,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 2,
+            "RECOMMENDED_FOR_FRIENDS": 2
+          }
+        },
+        "counterparty": "John Doe",
+        "category_tags": [
+          "music",
+          " streaming_service"
+        ]
+      },
+      {
+        "timestamp": "2023-11-13T03:54:00",
+        "amount": 7066.8,
+        "financial_metadata": {
+          "currency": "CAD",
+          "transaction_type": "MASTER CARD",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 2,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 5,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 3
+          }
+        },
+        "counterparty": "Molly",
+        "category_tags": [
+          "store",
+          " electronics",
+          " shopping"
+        ]
+      },
+      {
+        "timestamp": "2023-12-10T12:09:00",
+        "amount": 7066.8,
+        "financial_metadata": {
+          "currency": "MYR",
+          "transaction_type": "ADEYN",
+          "recommendations": {
+            "PENDING": 3,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 2,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "Stichting ABC East",
+        "category_tags": [
+          "store",
+          " app"
+        ]
+      },
+      {
+        "timestamp": "2024-01-08T20:19:00",
+        "amount": 7420.14,
+        "financial_metadata": {
+          "currency": "EU",
+          "transaction_type": "IBAN",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Five Guys Hamburg",
+        "category_tags": [
+          "groceries",
+          " supermarket",
+          " food"
+        ]
+      },
+      {
+        "timestamp": "2024-02-27T22:22:00",
+        "amount": 7420.14,
+        "financial_metadata": {
+          "currency": "HUF",
+          "transaction_type": "SOFROT",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "ABC Inc.",
+        "category_tags": [
+          "bakery",
+          " cafe",
+          " food",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2024-03-13T19:52:00",
+        "amount": 7420.14,
+        "financial_metadata": {
+          "currency": "BRL",
+          "transaction_type": "ADEYN",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 4,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 2,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "JOHNSON'S CAFE",
+        "category_tags": [
+          "art_gallery",
+          " cafe",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2024-04-03T22:50:00",
+        "amount": 7420.14,
+        "financial_metadata": {
+          "currency": "KRW",
+          "transaction_type": "BARZAHLEN",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "CORNER COFFEE - A",
+        "category_tags": [
+          "restaurant",
+          " bakery",
+          " cafe"
+        ]
+      },
+      {
+        "timestamp": "2024-05-21T23:20:00",
+        "amount": 7420.14,
+        "financial_metadata": {
+          "currency": "NOK",
+          "transaction_type": "BABZAHLEN",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "DMT* OCTAGON",
+        "category_tags": [
+          "restaurant",
+          " cinema",
+          " mall"
+        ]
+      },
+      {
+        "timestamp": "2024-06-01T19:05:00",
+        "amount": 7420.14,
+        "financial_metadata": {
+          "currency": "IQD",
+          "transaction_type": "TRANSLINK",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 2,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Magnifique",
+        "category_tags": [
+          "financial_services",
+          " bank"
+        ]
+      },
+      {
+        "timestamp": "2024-07-25T12:46:00",
+        "amount": 7420.14,
+        "financial_metadata": {
+          "currency": "BRL",
+          "transaction_type": "VISACARD",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 3,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 2,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "Pierre",
+        "category_tags": [
+          "tech",
+          " startup",
+          " office"
+        ]
+      },
+      {
+        "timestamp": "2024-08-22T00:53:00",
+        "amount": 7420.14,
+        "financial_metadata": {
+          "currency": "CNY",
+          "transaction_type": "ADEYEN",
+          "recommendations": {
+            "PENDING": 4,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 5,
+            "RECOMMENDED_FOR_BUSINESS": 3,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Emily's",
+        "category_tags": [
+          "software",
+          "subscription"
+        ]
+      },
+      {
+        "timestamp": "2024-09-27T21:28:00",
+        "amount": 7420.14,
+        "financial_metadata": {
+          "currency": "CHF",
+          "transaction_type": "SALARY",
+          "recommendations": {
+            "PENDING": 2,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "CAFE-NEROS",
+        "category_tags": [
+          "bank",
+          " atm"
+        ]
+      }
+    ]
+  },
+  "771": {
+    "rental_info": {
+      "financial_metrics": {
+        "total_transactions": 1,
+        "total_amount": 2494.54,
+        "country_distribution": {
+          "UN": 1
+        }
+      },
+      "geographical_insights": {
+        "cities": [
+          "Ie"
+        ],
+        "transaction_spread_km": 0
+      }
+    },
+    "subscription_info": {
+      "total_subscriptions": 2,
+      "monthly_cost_breakdown": {
+        "USD": 2288.73,
+        "DKK": 5999.03
+      }
+    },
+    "salary_transactions": [
+      {
+        "timestamp": "2023-01-16T12:54:00",
+        "amount": 5459.38,
+        "financial_metadata": {
+          "currency": "CHF",
+          "transaction_type": "ADBEN",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Ethan Tremblay",
+        "category_tags": [
+          "Italian",
+          " restaurant",
+          " wine bar"
+        ]
+      },
+      {
+        "timestamp": "2023-02-12T14:50:00",
+        "amount": 5459.38,
+        "financial_metadata": {
+          "currency": "ARS",
+          "transaction_type": "ADIEN",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "F. Stanton",
+        "category_tags": [
+          "lodging",
+          " cabin",
+          " travel"
+        ]
+      },
+      {
+        "timestamp": "2023-03-01T21:20:00",
+        "amount": 5459.38,
+        "financial_metadata": {
+          "currency": "RUB",
+          "transaction_type": "VISA",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 155,
+            "RECOMMENDED_FOR_FAMILY": 280,
+            "RECOMMENDED_FOR_DATE": 70,
+            "RECOMMENDED_FOR_MYSELF": 67,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "K. White",
+        "category_tags": [
+          "electronics",
+          " online_store"
+        ]
+      },
+      {
+        "timestamp": "2023-04-01T15:46:00",
+        "amount": 5459.38,
+        "financial_metadata": {
+          "currency": "NZD",
+          "transaction_type": "ADEYN",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 5,
+            "NOT_RECOMMENDED": 2,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 8,
+            "RECOMMENDED_FOR_FAMILY": 4,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "COFFEE SHOP NewStreet",
+        "category_tags": [
+          "fitness",
+          " gym",
+          " healthcare",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2023-05-23T05:19:00",
+        "amount": 5459.38,
+        "financial_metadata": {
+          "currency": "KRW",
+          "transaction_type": "PAYROLL",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 2,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Zoorado via PayPal Corp",
+        "category_tags": [
+          "gaming",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2023-06-15T00:17:00",
+        "amount": 5459.38,
+        "financial_metadata": {
+          "currency": "AUD",
+          "transaction_type": "BUNQ",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 3,
+            "RECOMMENDED_FOR_FRIENDS": 7
+          }
+        },
+        "counterparty": "JOHN'S BAKERY.",
+        "category_tags": [
+          "gym",
+          "health_spa"
+        ]
+      },
+      {
+        "timestamp": "2023-07-15T08:58:00",
+        "amount": 5459.38,
+        "financial_metadata": {
+          "currency": "ZAR",
+          "transaction_type": "MONEY TRANSFER",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Meliora",
+        "category_tags": [
+          "online",
+          "shopping",
+          "ecommerce"
+        ]
+      },
+      {
+        "timestamp": "2023-08-15T15:34:00",
+        "amount": 5459.38,
+        "financial_metadata": {
+          "currency": "SEK",
+          "transaction_type": "BUNQ",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 3,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 5
+          }
+        },
+        "counterparty": "ZOMATO LUNCHZOHELP.Z",
+        "category_tags": [
+          "store",
+          " designer",
+          " furniture"
+        ]
+      },
+      {
+        "timestamp": "2023-09-09T00:58:00",
+        "amount": 5459.38,
+        "financial_metadata": {
+          "currency": "HUF",
+          "transaction_type": "REQUEST",
+          "recommendations": {
+            "PENDING": 2,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 3,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "ELITE",
+        "category_tags": [
+          "onlineshopping",
+          "electronics",
+          "books"
+        ]
+      },
+      {
+        "timestamp": "2023-10-08T11:39:00",
+        "amount": 5459.38,
+        "financial_metadata": {
+          "currency": "ZAR",
+          "transaction_type": "PAYPAL",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 2,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Blue Gym",
+        "category_tags": [
+          "grocery",
+          " store",
+          " supermarket"
+        ]
+      },
+      {
+        "timestamp": "2023-11-28T06:45:00",
+        "amount": 5459.38,
+        "financial_metadata": {
+          "currency": "HKD",
+          "transaction_type": "TRANSFER",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 3,
+            "RECOMMENDED_FOR_FRIENDS": 7
+          }
+        },
+        "counterparty": "PANINI ROME",
+        "category_tags": [
+          "streaming",
+          " entertainment",
+          " movie",
+          " tv-shows"
+        ]
+      },
+      {
+        "timestamp": "2023-12-11T22:43:00",
+        "amount": 5459.38,
+        "financial_metadata": {
+          "currency": "IQD",
+          "transaction_type": "DEPOSIT",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 2,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "GLORIA",
+        "category_tags": [
+          "pizza_restaurant",
+          " restaurant"
+        ]
+      },
+      {
+        "timestamp": "2023-11-07T18:14:00",
+        "amount": 4954.42,
+        "financial_metadata": {
+          "currency": " USD",
+          "transaction_type": "MASTERCARD",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Pizza Prima",
+        "category_tags": [
+          "online",
+          " store",
+          " shopping"
+        ]
+      }
+    ]
+  },
+  "137": {
+    "rental_info": {
+      "financial_metrics": {
+        "total_transactions": 2,
+        "total_amount": 10460.74,
+        "country_distribution": {
+          "UN": 2
+        }
+      },
+      "geographical_insights": {
+        "cities": [
+          "",
+          "Pulse Energy"
+        ],
+        "transaction_spread_km": 527.73
+      }
+    },
+    "subscription_info": {
+      "total_subscriptions": 5,
+      "monthly_cost_breakdown": {
+        "             USD": 9828.04,
+        "NZD": 9196.75,
+        "CAD": 1895.56,
+        "CNY": 2288.73,
+        "EURO": 7700.08
+      }
+    },
+    "salary_transactions": [
+      {
+        "timestamp": "2023-01-16T01:32:00",
+        "amount": 4920.69,
+        "financial_metadata": {
+          "currency": "CNY",
+          "transaction_type": "Wise",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 2,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Telekom AG",
+        "category_tags": [
+          "art_gallery"
+        ]
+      },
+      {
+        "timestamp": "2023-02-20T14:24:00",
+        "amount": 4920.69,
+        "financial_metadata": {
+          "currency": "AUD",
+          "transaction_type": "TRANSFERENCE",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 20,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "BG INSTITUTION",
+        "category_tags": [
+          "internet",
+          " shopping",
+          " online"
+        ]
+      },
+      {
+        "timestamp": "2023-03-22T05:15:00",
+        "amount": 4920.69,
+        "financial_metadata": {
+          "currency": "CHF",
+          "transaction_type": "SOFROT",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "DARCY CAFE",
+        "category_tags": [
+          "movie",
+          " series",
+          " streaming"
+        ]
+      },
+      {
+        "timestamp": "2023-04-23T18:30:00",
+        "amount": 4920.69,
+        "financial_metadata": {
+          "currency": "IQD",
+          "transaction_type": "SUBSCRIPTIONS",
+          "recommendations": {
+            "PENDING": 2,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 3,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "IN *FLOWER SHOP",
+        "category_tags": [
+          "online",
+          "shop",
+          "electronics"
+        ]
+      },
+      {
+        "timestamp": "2023-05-25T17:47:00",
+        "amount": 4920.69,
+        "financial_metadata": {
+          "currency": "AED",
+          "transaction_type": "BILE",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "ECN Energie Centrum Nederland",
+        "category_tags": [
+          "theatre",
+          " entertainment",
+          " show"
+        ]
+      },
+      {
+        "timestamp": "2023-06-07T15:56:00",
+        "amount": 4920.69,
+        "financial_metadata": {
+          "currency": "Euro",
+          "transaction_type": "MASTERCARD",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 5,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 4,
+            "RECOMMENDED_FOR_MYSELF": 4,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "PIXEL COFFEE BREWERS",
+        "category_tags": [
+          "travel_agency",
+          " hotel"
+        ]
+      },
+      {
+        "timestamp": "2023-07-18T03:44:00",
+        "amount": 4920.69,
+        "financial_metadata": {
+          "currency": "INR",
+          "transaction_type": "ADYEN",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 3,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Ebay Inc",
+        "category_tags": [
+          "pastry",
+          " cafe",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2023-08-03T11:40:00",
+        "amount": 4920.69,
+        "financial_metadata": {
+          "currency": "IQD",
+          "transaction_type": "CASHBACK",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "Panthera Inc.",
+        "category_tags": [
+          "diner",
+          " restaurant"
+        ]
+      },
+      {
+        "timestamp": "2023-09-17T17:17:00",
+        "amount": 4920.69,
+        "financial_metadata": {
+          "currency": "CHF",
+          "transaction_type": "SOFT",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 2,
+            "NOT_RECOMMENDED": 2,
+            "RECOMMENDED_UNCATEGORIZED": 10,
+            "RECOMMENDED_FOR_BUSINESS": 9,
+            "RECOMMENDED_FOR_FAMILY": 4,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 6,
+            "RECOMMENDED_FOR_FRIENDS": 5
+          }
+        },
+        "counterparty": "Sofort for Cloudnine",
+        "category_tags": [
+          "streaming service",
+          " movies"
+        ]
+      },
+      {
+        "timestamp": "2023-10-28T13:09:00",
+        "amount": 4920.69,
+        "financial_metadata": {
+          "currency": "CZK",
+          "transaction_type": "TRANSFERENCE",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 8,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 10,
+            "RECOMMENDED_FOR_BUSINESS": 5,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 4,
+            "RECOMMENDED_FOR_FRIENDS": 16
+          }
+        },
+        "counterparty": "Mark Anthony Charles Johnson",
+        "category_tags": [
+          "clothing",
+          " online store"
+        ]
+      },
+      {
+        "timestamp": "2023-11-18T19:49:00",
+        "amount": 4920.69,
+        "financial_metadata": {
+          "currency": "HKD",
+          "transaction_type": "PAYCHECK",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 3,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 2
+          }
+        },
+        "counterparty": "R. Steinbach",
+        "category_tags": [
+          "internet_cafe",
+          " online_store"
+        ]
+      },
+      {
+        "timestamp": "2023-12-20T18:38:00",
+        "amount": 4920.69,
+        "financial_metadata": {
+          "currency": "DKK",
+          "transaction_type": "TRANSER_PAYMENT",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 20,
+            "RECOMMENDED_UNCATEGORIZED": 10,
+            "RECOMMENDED_FOR_BUSINESS": 15,
+            "RECOMMENDED_FOR_FAMILY": 35,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 30,
+            "RECOMMENDED_FOR_FRIENDS": 10
+          }
+        },
+        "counterparty": "BLUEWAVE",
+        "category_tags": [
+          "store",
+          " organic",
+          " grocery"
+        ]
+      },
+      {
+        "timestamp": "2024-01-02T08:02:00",
+        "amount": 5166.72,
+        "financial_metadata": {
+          "currency": "AED",
+          "transaction_type": "TRANSLink",
+          "recommendations": {
+            "PENDING": 3,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 2,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "PaySafeCash",
+        "category_tags": [
+          "charity",
+          " organization"
+        ]
+      },
+      {
+        "timestamp": "2024-02-19T23:34:00",
+        "amount": 5166.72,
+        "financial_metadata": {
+          "currency": "HUF",
+          "transaction_type": "COUPON",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 2,
+            "RECOMMENDED_UNCATEGORIZED": 2,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 6,
+            "RECOMMENDED_FOR_FRIENDS": 2
+          }
+        },
+        "counterparty": "ABC* PANDA CAFE",
+        "category_tags": [
+          "bookstore",
+          " electronics_store"
+        ]
+      },
+      {
+        "timestamp": "2024-03-18T22:43:00",
+        "amount": 5166.72,
+        "financial_metadata": {
+          "currency": "RON",
+          "transaction_type": "BILE",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 5,
+            "NOT_RECOMMENDED": 10,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 5,
+            "RECOMMENDED_FOR_FAMILY": 5,
+            "RECOMMENDED_FOR_DATE": 5,
+            "RECOMMENDED_FOR_MYSELF": 15,
+            "RECOMMENDED_FOR_FRIENDS": 5
+          }
+        },
+        "counterparty": "R. Smithens",
+        "category_tags": [
+          "grocery_store",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2024-04-19T06:10:00",
+        "amount": 5166.72,
+        "financial_metadata": {
+          "currency": "HKD",
+          "transaction_type": "ADIEN",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 1,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 3,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Starbrite Cleaners",
+        "category_tags": [
+          "fashion",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2024-05-01T02:02:00",
+        "amount": 5166.72,
+        "financial_metadata": {
+          "currency": "RUB",
+          "transaction_type": "WISE",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 3
+          }
+        },
+        "counterparty": "BANCO_SANTANDER",
+        "category_tags": [
+          "hardware_store",
+          " home_goods_store",
+          " store"
+        ]
+      },
+      {
+        "timestamp": "2024-06-03T04:33:00",
+        "amount": 5166.72,
+        "financial_metadata": {
+          "currency": "ZAR",
+          "transaction_type": "SOFT",
+          "recommendations": {
+            "PENDING": 20,
+            "SKIPPED": 10,
+            "NOT_RECOMMENDED": 5,
+            "RECOMMENDED_UNCATEGORIZED": 40,
+            "RECOMMENDED_FOR_BUSINESS": 100,
+            "RECOMMENDED_FOR_FAMILY": 30,
+            "RECOMMENDED_FOR_DATE": 10,
+            "RECOMMENDED_FOR_MYSELF": 20,
+            "RECOMMENDED_FOR_FRIENDS": 15
+          }
+        },
+        "counterparty": "SEOService_de.org",
+        "category_tags": [
+          "digital payments"
+        ]
+      },
+      {
+        "timestamp": "2024-07-14T04:03:00",
+        "amount": 5166.72,
+        "financial_metadata": {
+          "currency": " USD",
+          "transaction_type": "PAYSAFECASH_DEPOSIT",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 1,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "LeaseHub",
+        "category_tags": [
+          "sushi",
+          " restaurant"
+        ]
+      },
+      {
+        "timestamp": "2024-08-09T19:11:00",
+        "amount": 5166.72,
+        "financial_metadata": {
+          "currency": "GBP",
+          "transaction_type": "TOP UP",
+          "recommendations": {
+            "PENDING": 1,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 2,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 0,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 0,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "PCWORLD",
+        "category_tags": [
+          "online",
+          " music",
+          " streaming"
+        ]
+      },
+      {
+        "timestamp": "2024-09-17T13:17:00",
+        "amount": 5166.72,
+        "financial_metadata": {
+          "currency": "NZD",
+          "transaction_type": "PURCHASE",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 1,
+            "RECOMMENDED_FOR_FAMILY": 2,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 0
+          }
+        },
+        "counterparty": "Cafe Bistro",
+        "category_tags": [
+          "beverages",
+          " cafe",
+          " global"
+        ]
+      },
+      {
+        "timestamp": "2024-10-16T21:13:00",
+        "amount": 5166.72,
+        "financial_metadata": {
+          "currency": "DKK",
+          "transaction_type": "TRANSFERENCE",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 20,
+            "RECOMMENDED_UNCATEGORIZED": 10,
+            "RECOMMENDED_FOR_BUSINESS": 15,
+            "RECOMMENDED_FOR_FAMILY": 35,
+            "RECOMMENDED_FOR_DATE": 0,
+            "RECOMMENDED_FOR_MYSELF": 30,
+            "RECOMMENDED_FOR_FRIENDS": 10
+          }
+        },
+        "counterparty": "Stacey Goodrich",
+        "category_tags": [
+          "groceries",
+          " online shopping"
+        ]
+      },
+      {
+        "timestamp": "2024-11-09T09:49:00",
+        "amount": 5166.72,
+        "financial_metadata": {
+          "currency": "SEK",
+          "transaction_type": "FAST",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 0,
+            "NOT_RECOMMENDED": 0,
+            "RECOMMENDED_UNCATEGORIZED": 0,
+            "RECOMMENDED_FOR_BUSINESS": 5,
+            "RECOMMENDED_FOR_FAMILY": 10,
+            "RECOMMENDED_FOR_DATE": 7,
+            "RECOMMENDED_FOR_MYSELF": 10,
+            "RECOMMENDED_FOR_FRIENDS": 3
+          }
+        },
+        "counterparty": "John Thornton",
+        "category_tags": [
+          "cafe",
+          " grocery_store"
+        ]
+      },
+      {
+        "timestamp": "2024-12-27T05:22:00",
+        "amount": 5166.72,
+        "financial_metadata": {
+          "currency": "IQD",
+          "transaction_type": "SOFR",
+          "recommendations": {
+            "PENDING": 0,
+            "SKIPPED": 1,
+            "NOT_RECOMMENDED": 2,
+            "RECOMMENDED_UNCATEGORIZED": 3,
+            "RECOMMENDED_FOR_BUSINESS": 0,
+            "RECOMMENDED_FOR_FAMILY": 1,
+            "RECOMMENDED_FOR_DATE": 1,
+            "RECOMMENDED_FOR_MYSELF": 1,
+            "RECOMMENDED_FOR_FRIENDS": 1
+          }
+        },
+        "counterparty": "M.F. Janssen",
+        "category_tags": [
+          "Supermarket",
+          " Retailer"
+        ]
+      }
+    ]
+  }
+}

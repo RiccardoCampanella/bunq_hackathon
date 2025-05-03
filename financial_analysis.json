@@ -1,0 +1,35 @@
+{
+  "key_metrics": {
+    "total_monthly_obligations": 18659.64,
+    "largest_expense_category": "Salary",
+    "financial_stability_score": 80
+  },
+  "observations": [
+    "High salary transactions with varying categories",
+    "Diversified currency distribution in transactions"
+  ],
+  "recommendations": [
+    "Categorize salary transactions for better insights",
+    "Explore currency exchange optimization opportunities",
+    "SCRAPE: Rental listings in transaction areas <\u20ac2500/mo",
+    "SCRAPE: High-salary positions in international finance",
+    "SCRAPE: Subscription alternatives for frequent categories"
+  ],
+  "predictions": {
+    "status_quo": {
+      "salary_trend": "Salary trend remains stagnant with no significant increase or decrease expected in the next quarter.",
+      "subscription_trend": "Subscription expenses are expected to increase by 5-7% in the next quarter due to rising costs.",
+      "rent_trend": "Rent is likely to increase by 10-12% in the next quarter due to high demand and limited supply."
+    },
+    "with_recommendations": {
+      "salary_trend": "Salary trend is expected to increase by 3-5% in the next quarter with effective budgeting and financial planning.",
+      "subscription_trend": "Subscription expenses can be reduced by 2-3% in the next quarter by canceling unused services and negotiating better deals.",
+      "rent_trend": "Rent can be negotiated to increase by only 5-7% in the next quarter by exploring alternative options and areas."
+    },
+    "regression_based": {
+      "salary_increase_probability": 0.021,
+      "subscription_increase_probability": 0.096,
+      "rent_increase_probability": 0.165
+    }
+  }
+}

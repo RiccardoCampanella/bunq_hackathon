@@ -1,0 +1,152 @@
+[
+    {
+        "user_id": "102",
+        "category": "RENT_AND_UTILITIES",
+        "predicted_increase_probability": 0.063
+    },
+    {
+        "user_id": "102",
+        "category": "SALARY",
+        "predicted_increase_probability": 0.196
+    },
+    {
+        "user_id": "102",
+        "category": "SUBSCRIPTIONS",
+        "predicted_increase_probability": 0.063
+    },
+    {
+        "user_id": "137",
+        "category": "RENT_AND_UTILITIES",
+        "predicted_increase_probability": 0.099
+    },
+    {
+        "user_id": "137",
+        "category": "SALARY",
+        "predicted_increase_probability": 0.176
+    },
+    {
+        "user_id": "137",
+        "category": "SUBSCRIPTIONS",
+        "predicted_increase_probability": 0.034
+    },
+    {
+        "user_id": "207",
+        "category": "RENT_AND_UTILITIES",
+        "predicted_increase_probability": 0.169
+    },
+    {
+        "user_id": "207",
+        "category": "SALARY",
+        "predicted_increase_probability": 0.122
+    },
+    {
+        "user_id": "207",
+        "category": "SUBSCRIPTIONS",
+        "predicted_increase_probability": 0.108
+    },
+    {
+        "user_id": "282",
+        "category": "RENT_AND_UTILITIES",
+        "predicted_increase_probability": 0.078
+    },
+    {
+        "user_id": "282",
+        "category": "SALARY",
+        "predicted_increase_probability": 0.025
+    },
+    {
+        "user_id": "282",
+        "category": "SUBSCRIPTIONS",
+        "predicted_increase_probability": 0.109
+    },
+    {
+        "user_id": "334",
+        "category": "RENT_AND_UTILITIES",
+        "predicted_increase_probability": 0.149
+    },
+    {
+        "user_id": "334",
+        "category": "SALARY",
+        "predicted_increase_probability": 0.033
+    },
+    {
+        "user_id": "334",
+        "category": "SUBSCRIPTIONS",
+        "predicted_increase_probability": 0.173
+    },
+    {
+        "user_id": "336",
+        "category": "RENT_AND_UTILITIES",
+        "predicted_increase_probability": 0.099
+    },
+    {
+        "user_id": "336",
+        "category": "SALARY",
+        "predicted_increase_probability": 0.142
+    },
+    {
+        "user_id": "336",
+        "category": "SUBSCRIPTIONS",
+        "predicted_increase_probability": 0.076
+    },
+    {
+        "user_id": "388",
+        "category": "RENT_AND_UTILITIES",
+        "predicted_increase_probability": 0.061
+    },
+    {
+        "user_id": "388",
+        "category": "SALARY",
+        "predicted_increase_probability": 0.025
+    },
+    {
+        "user_id": "388",
+        "category": "SUBSCRIPTIONS",
+        "predicted_increase_probability": 0.105
+    },
+    {
+        "user_id": "558",
+        "category": "RENT_AND_UTILITIES",
+        "predicted_increase_probability": 0.165
+    },
+    {
+        "user_id": "558",
+        "category": "SALARY",
+        "predicted_increase_probability": 0.021
+    },
+    {
+        "user_id": "558",
+        "category": "SUBSCRIPTIONS",
+        "predicted_increase_probability": 0.096
+    },
+    {
+        "user_id": "569",
+        "category": "RENT_AND_UTILITIES",
+        "predicted_increase_probability": 0.109
+    },
+    {
+        "user_id": "569",
+        "category": "SALARY",
+        "predicted_increase_probability": 0.144
+    },
+    {
+        "user_id": "569",
+        "category": "SUBSCRIPTIONS",
+        "predicted_increase_probability": 0.06
+    },
+    {
+        "user_id": "771",
+        "category": "RENT_AND_UTILITIES",
+        "predicted_increase_probability": 0.078
+    },
+    {
+        "user_id": "771",
+        "category": "SALARY",
+        "predicted_increase_probability": 0.032
+    },
+    {
+        "user_id": "771",
+        "category": "SUBSCRIPTIONS",
+        "predicted_increase_probability": 0.052
+    }
+]

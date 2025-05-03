@@ -1,0 +1,415 @@
+{
+  "metadata": {
+    "total_transactions_analyzed": 53,
+    "analysis_date": "2025-05-03T10:47:30.767662",
+    "data_sources": {
+      "transactions": "synthetic_transactions.json",
+      "activities": "activities.json",
+      "accounts": "monetary_accounts.json",
+      "cards": "cards.json"
+    }
+  },
+  "financial_analysis": {
+    "company": {
+      "total_transactions": 29,
+      "total_amount": 223758.38,
+      "average_amount": 7715.81,
+      "median_amount": 8064.94,
+      "min_amount": 5010.34,
+      "max_amount": 9828.04,
+      "std_deviation": 1567.06,
+      "country_distribution": {
+        "UN": 27,
+        "NL": 2
+      },
+      "top_country": [
+        "UN",
+        27
+      ]
+    },
+    "person": {
+      "total_transactions": 24,
+      "total_amount": 39990.03,
+      "average_amount": 1666.25,
+      "median_amount": 1765.19,
+      "min_amount": 653.17,
+      "max_amount": 2498.45,
+      "std_deviation": 617.27,
+      "country_distribution": {
+        "UN": 21,
+        "NL": 3
+      },
+      "top_country": [
+        "UN",
+        21
+      ]
+    }
+  },
+  "geographical_insights": {
+    "country_analysis": {
+      "UN": {
+        "transaction_count": 48,
+        "total_amount": 243366.33,
+        "city_distribution": {
+          "": 23,
+          "Sandra Smith": 1,
+          "Uk": 7,
+          "Baker Street 23": 1,
+          "Hauptstrabe 10": 1,
+          "Ambassador Ave 3": 1,
+          "Vodafone Group": 1,
+          "Raleigh": 1,
+          "Ny 10028": 1,
+          "Leeuwarden": 1,
+          "John Smith": 1,
+          "Ie": 1,
+          "High St": 1,
+          "New York": 1,
+          "Ca": 1,
+          "Blanc": 1,
+          "Pulse Energy": 1,
+          "September Electri": 1,
+          "Maple Ave": 1,
+          "13 Cyber Street": 1
+        },
+        "geographical_center": [
+          48.356145,
+          -9.649612
+        ],
+        "spread_km": 10591.12
+      },
+      "NL": {
+        "transaction_count": 5,
+        "total_amount": 20382.08,
+        "city_distribution": {
+          "Amsterdam": 3,
+          "Groningen": 1,
+          "Utrecht": 1
+        },
+        "geographical_center": [
+          51.997832,
+          -52.38202
+        ],
+        "spread_km": 7288.09
+      }
+    },
+    "match_breakdown": {
+      "coordinates": 2,
+      "place_name": 51
+    }
+  },
+  "user_analysis": {
+    "569": {
+      "total_transactions": 4,
+      "total_amount": 31144.88,
+      "average_amount": 7786.22,
+      "median_amount": 8160.56,
+      "min_amount": 5594.01,
+      "max_amount": 9229.75,
+      "std_deviation": 1685.38,
+      "country_distribution": {
+        "UN": 4
+      },
+      "city_distribution": {
+        "": 3,
+        "September Electri": 1
+      },
+      "top_country": [
+        "UN",
+        4
+      ],
+      "top_city": [
+        "",
+        3
+      ],
+      "geographical_center": [
+        54.309011,
+        3.254313
+      ],
+      "spread_km": 816.42
+    },
+    "558": {
+      "total_transactions": 7,
+      "total_amount": 32010.19,
+      "average_amount": 4572.88,
+      "median_amount": 2498.45,
+      "min_amount": 699.85,
+      "max_amount": 9062.08,
+      "std_deviation": 3508.3,
+      "country_distribution": {
+        "UN": 6,
+        "NL": 1
+      },
+      "city_distribution": {
+        "Sandra Smith": 1,
+        "Amsterdam": 1,
+        "": 2,
+        "Leeuwarden": 1,
+        "John Smith": 1,
+        "13 Cyber Street": 1
+      },
+      "top_country": [
+        "UN",
+        6
+      ],
+      "top_city": [
+        "",
+        2
+      ],
+      "geographical_center": [
+        52.127799,
+        -28.012647
+      ],
+      "spread_km": 8448.95
+    },
+    "336": {
+      "total_transactions": 10,
+      "total_amount": 44529.25,
+      "average_amount": 4452.93,
+      "median_amount": 3677.1,
+      "min_amount": 791.67,
+      "max_amount": 9665.37,
+      "std_deviation": 3175.47,
+      "country_distribution": {
+        "UN": 10
+      },
+      "city_distribution": {
+        "": 6,
+        "Hauptstrabe 10": 1,
+        "Ambassador Ave 3": 1,
+        "Uk": 1,
+        "Ca": 1
+      },
+      "top_country": [
+        "UN",
+        10
+      ],
+      "top_city": [
+        "",
+        6
+      ],
+      "geographical_center": [
+        44.837464,
+        -17.66497
+      ],
+      "spread_km": 10591.12
+    },
+    "282": {
+      "total_transactions": 6,
+      "total_amount": 34230.83,
+      "average_amount": 5705.14,
+      "median_amount": 5826.77,
+      "min_amount": 1577.62,
+      "max_amount": 9764.32,
+      "std_deviation": 3543.19,
+      "country_distribution": {
+        "UN": 5,
+        "NL": 1
+      },
+      "city_distribution": {
+        "Uk": 2,
+        "": 2,
+        "Amsterdam": 1,
+        "New York": 1
+      },
+      "top_country": [
+        "UN",
+        5
+      ],
+      "top_city": [
+        "Uk",
+        2
+      ],
+      "geographical_center": [
+        50.427362,
+        -42.802709
+      ],
+      "spread_km": 7560.16
+    },
+    "334": {
+      "total_transactions": 7,
+      "total_amount": 16863.09,
+      "average_amount": 2409.01,
+      "median_amount": 1845.39,
+      "min_amount": 779.84,
+      "max_amount": 6683.05,
+      "std_deviation": 1980.2,
+      "country_distribution": {
+        "UN": 6,
+        "NL": 1
+      },
+      "city_distribution": {
+        "": 2,
+        "Ny 10028": 1,
+        "Uk": 2,
+        "Utrecht": 1,
+        "Maple Ave": 1
+      },
+      "top_country": [
+        "UN",
+        6
+      ],
+      "top_city": [
+        "",
+        2
+      ],
+      "geographical_center": [
+        45.107534,
+        4.342708
+      ],
+      "spread_km": 2103.7
+    },
+    "102": {
+      "total_transactions": 5,
+      "total_amount": 34360.52,
+      "average_amount": 6872.1,
+      "median_amount": 7780.58,
+      "min_amount": 2111.49,
+      "max_amount": 9828.04,
+      "std_deviation": 2978.71,
+      "country_distribution": {
+        "UN": 5
+      },
+      "city_distribution": {
+        "": 2,
+        "Uk": 1,
+        "Raleigh": 1,
+        "Blanc": 1
+      },
+      "top_country": [
+        "UN",
+        5
+      ],
+      "top_city": [
+        "",
+        2
+      ],
+      "geographical_center": [
+        48.931071,
+        6.4858
+      ],
+      "spread_km": 8469.39
+    },
+    "388": {
+      "total_transactions": 6,
+      "total_amount": 27370.43,
+      "average_amount": 4561.74,
+      "median_amount": 4037.12,
+      "min_amount": 653.17,
+      "max_amount": 9196.75,
+      "std_deviation": 3779.04,
+      "country_distribution": {
+        "NL": 1,
+        "UN": 5
+      },
+      "city_distribution": {
+        "Amsterdam": 1,
+        "": 4,
+        "Vodafone Group": 1
+      },
+      "top_country": [
+        "UN",
+        5
+      ],
+      "top_city": [
+        "",
+        4
+      ],
+      "geographical_center": [
+        45.968572,
+        -5.647478
+      ],
+      "spread_km": 7269.79
+    },
+    "207": {
+      "total_transactions": 5,
+      "total_amount": 30283.94,
+      "average_amount": 6056.79,
+      "median_amount": 6113.39,
+      "min_amount": 1640.97,
+      "max_amount": 9025.09,
+      "std_deviation": 2953.34,
+      "country_distribution": {
+        "NL": 1,
+        "UN": 4
+      },
+      "city_distribution": {
+        "Groningen": 1,
+        "Baker Street 23": 1,
+        "Uk": 1,
+        "": 1,
+        "High St": 1
+      },
+      "top_country": [
+        "UN",
+        4
+      ],
+      "top_city": [
+        "Groningen",
+        1
+      ],
+      "geographical_center": [
+        52.169138,
+        -30.957335
+      ],
+      "spread_km": 6283.72
+    },
+    "771": {
+      "total_transactions": 1,
+      "total_amount": 2494.54,
+      "average_amount": 2494.54,
+      "median_amount": 2494.54,
+      "min_amount": 2494.54,
+      "max_amount": 2494.54,
+      "std_deviation": 0.0,
+      "country_distribution": {
+        "UN": 1
+      },
+      "city_distribution": {
+        "Ie": 1
+      },
+      "top_country": [
+        "UN",
+        1
+      ],
+      "top_city": [
+        "Ie",
+        1
+      ],
+      "geographical_center": [
+        47.6062,
+        4.905279
+      ],
+      "spread_km": 0
+    },
+    "137": {
+      "total_transactions": 2,
+      "total_amount": 10460.74,
+      "average_amount": 5230.37,
+      "median_amount": 5230.37,
+      "min_amount": 702.68,
+      "max_amount": 9758.06,
+      "std_deviation": 6403.12,
+      "country_distribution": {
+        "UN": 2
+      },
+      "city_distribution": {
+        "": 1,
+        "Pulse Energy": 1
+      },
+      "top_country": [
+        "UN",
+        2
+      ],
+      "top_city": [
+        "",
+        1
+      ],
+      "geographical_center": [
+        51.671613,
+        6.192038
+      ],
+      "spread_km": 527.73
+    }
+  }
+}
