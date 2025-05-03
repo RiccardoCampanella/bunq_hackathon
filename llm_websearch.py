@@ -127,10 +127,10 @@ def query_llama(prompt):
     except json.JSONDecodeError as e:
         raise ValueError(f"Failed to parse model response: {e}")
 
-def main(target_user_id="558"):
+def main(target_user_id="569"):
     try:
         # Load and prepare data
-        with open('llm_input_data.json') as f:
+        with open('llm_demo_data.json') as f:
             raw_data = json.load(f)
         user_data = filter_user_data(raw_data, target_user_id)
         regression_data = load_regression_predictions(target_user_id)

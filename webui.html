@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bunq Financial Insights</title>
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: linear-gradient(145deg, #1a1a1a, #2d2d2d);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(0, 150, 255, 0.2);
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .bunq-logo {
+            width: 150px;
+            margin-bottom: 20px;
+        }
+
+        .section {
+            margin-bottom: 30px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+        }
+
+        h2 {
+            color: #00aeff;
+            border-bottom: 2px solid #00aeff;
+            padding-bottom: 10px;
+            margin-top: 0;
+        }
+
+        .input-group {
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+            color: #00aeff;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 10px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid #00aeff;
+            color: #fff;
+            border-radius: 5px;
+            appearance: none;
+            -webkit-appearance: none;
+        }
+
+        button {
+            background: #00aeff;
+            color: #fff;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+
+        button:hover {
+            background: #0088cc;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 174, 255, 0.3);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="bunq.png" alt="bunq Logo" class="bunq-logo">
+            <h1>Financial Insights Dashboard</h1>
+        </div>
+
+        <div class="section">
+            <h2>Transaction Overview</h2>
+            <div class="input-group">
+                <label>Total Transactions (Fixed)</label>
+                <input type="number" id="totalTransactions" value="4" readonly>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Geographical Insights</h2>
+            <div class="input-group">
+                <label>Cities (comma-separated)</label>
+                <input type="text" id="cities" required>
+            </div>
+            <div class="input-group">
+                <label>Transaction Spread (km)</label>
+                <input type="number" id="transactionSpread" step="0.01" required>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Subscription Info</h2>
+            <div class="input-group">
+                <label>Total Subscriptions</label>
+                <input type="number" id="totalSubscriptions" required>
+            </div>
+            <div class="input-group">
+                <label>Monthly Cost Breakdown (Currency:Amount, comma-separated)</label>
+                <input type="text" id="monthlyCosts" placeholder="EUR:1348.10,SEK:16187.83" required>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Salary Transaction</h2>
+            <div class="input-group">
+                <label>Timestamp</label>
+                <input type="datetime-local" id="salaryTimestamp" required>
+            </div>
+            <div class="input-group">
+                <label>Amount</label>
+                <input type="number" id="salaryAmount" step="0.01" required>
+            </div>
+            <div class="input-group">
+                <label>Transaction Type</label>
+                <select id="transactionType" required>
+                    <option value="RENT">RENT</option>
+                    <option value="MASTER CARD">MASTER CARD</option>
+                    <option value="BILLING">BILLING</option>
+                    <option value="REVERSAL">REVERSAL</option>
+                    <option value="TRANSFER PAYMENT">TRANSFER PAYMENT</option>
+                    <option value="PAYROLL">PAYROLL</option>
+                    <option value="TOP UP">TOP UP</option>
+                    <option value="REQUEST">REQUEST</option>
+                </select>
+            </div>
+        </div>
+
+        <button onclick="generateJSON()">Generate Insights Report</button>
+    </div>
+
+    <script>
+        const baseData = {
+            "569": {
+                "rental_info": {
+                "financial_metrics": {
+                    "total_transactions": 4,
+                    "total_amount": 31144.88,
+                    "country_distribution": {
+                    "UN": 4
+                    }
+                },
+                "geographical_insights": {
+                    "cities": [
+                    "",
+                    "September Electri"
+                    ],
+                    "transaction_spread_km": 816.42
+                }},
+                "subscription_info": {
+                "total_subscriptions": 6,
+                "monthly_cost_breakdown": {
+                    "EURO": 1348.1,
+                    "SEK": 16187.83,
+                    "TRY": 8079.94,
+                    "USD": 5999.03,
+                    "GBP": 7780.58
+                }
+                },
+                "salary_transactions": [
+                {
+                    "timestamp": "2023-01-22T19:00:00",
+                    "amount": 5948.98,
+                    "financial_metadata": {
+                    "currency": "CAD",
+                    "transaction_type": "RENT",
+                    "recommendations": {
+                        "PENDING": 0,
+                        "SKIPPED": 1,
+                        "NOT_RECOMMENDED": 0,
+                        "RECOMMENDED_UNCATEGORIZED": 1,
+                        "RECOMMENDED_FOR_BUSINESS": 0,
+                        "RECOMMENDED_FOR_FAMILY": 2,
+                        "RECOMMENDED_FOR_DATE": 1,
+                        "RECOMMENDED_FOR_MYSELF": 0,
+                        "RECOMMENDED_FOR_FRIENDS": 1
+                    }
+                    },
+                    "counterparty": "J.K. Green",
+                    "category_tags": [
+                    "art_gallery",
+                    " museum"
+                    ]
+                },
+                {
+                    "timestamp": "2023-02-13T20:47:00",
+                    "amount": 5948.98,
+                    "financial_metadata": {
+                    "currency": "ZAR",
+                    "transaction_type": "      MASTER CARD",
+                    "recommendations": {
+                        "PENDING": 2,
+                        "SKIPPED": 2,
+                        "NOT_RECOMMENDED": 1,
+                        "RECOMMENDED_UNCATEGORIZED": 0,
+                        "RECOMMENDED_FOR_BUSINESS": 1,
+                        "RECOMMENDED_FOR_FAMILY": 1,
+                        "RECOMMENDED_FOR_DATE": 2,
+                        "RECOMMENDED_FOR_MYSELF": 0,
+                        "RECOMMENDED_FOR_FRIENDS": 1
+                    }
+                    },
+                    "counterparty": "The Tea Lounge",
+                    "category_tags": [
+                    "streaming service"
+                    ]
+                },
+                {
+                    "timestamp": "2023-03-13T14:50:00",
+                    "amount": 5948.98,
+                    "financial_metadata": {
+                    "currency": "CNY",
+                    "transaction_type": "BILLING",
+                    "recommendations": {
+                        "PENDING": 0,
+                        "SKIPPED": 5,
+                        "NOT_RECOMMENDED": 3,
+                        "RECOMMENDED_UNCATEGORIZED": 0,
+                        "RECOMMENDED_FOR_BUSINESS": 10,
+                        "RECOMMENDED_FOR_FAMILY": 15,
+                        "RECOMMENDED_FOR_DATE": 10,
+                        "RECOMMENDED_FOR_MYSELF": 10,
+                        "RECOMMENDED_FOR_FRIENDS": 15
+                    }
+                    },
+                    "counterparty": "Brian Williams",
+                    "category_tags": [
+                    "clothing",
+                    "store",
+                    "sportswear"
+                    ]
+                },
+                {
+                    "timestamp": "2023-04-19T07:11:00",
+                    "amount": 5948.98,
+                    "financial_metadata": {
+                    "currency": "JPY",
+                    "transaction_type": "REVERSAL",
+                    "recommendations": {
+                        "PENDING": 0,
+                        "SKIPPED": 1,
+                        "NOT_RECOMMENDED": 0,
+                        "RECOMMENDED_UNCATEGORIZED": 0,
+                        "RECOMMENDED_FOR_BUSINESS": 0,
+                        "RECOMMENDED_FOR_FAMILY": 3,
+                        "RECOMMENDED_FOR_DATE": 0,
+                        "RECOMMENDED_FOR_MYSELF": 1,
+                        "RECOMMENDED_FOR_FRIENDS": 0
+                    }
+                    },
+                    "counterparty": "AMAZON WEB SERVICES AWScxz.nl",
+                    "category_tags": [
+                    "store",
+                    " clothes"
+                    ]
+                },
+                {
+                    "timestamp": "2023-05-02T11:01:00",
+                    "amount": 5948.98,
+                    "financial_metadata": {
+                    "currency": "Euro",
+                    "transaction_type": "TRANSFER PAYMENT",
+                    "recommendations": {
+                        "PENDING": 1,
+                        "SKIPPED": 0,
+                        "NOT_RECOMMENDED": 2,
+                        "RECOMMENDED_UNCATEGORIZED": 0,
+                        "RECOMMENDED_FOR_BUSINESS": 0,
+                        "RECOMMENDED_FOR_FAMILY": 3,
+                        "RECOMMENDED_FOR_DATE": 0,
+                        "RECOMMENDED_FOR_MYSELF": 1,
+                        "RECOMMENDED_FOR_FRIENDS": 0
+                    }
+                    },
+                    "counterparty": "John \ud83c\udf38",
+                    "category_tags": [
+                    "music_education",
+                    " piano_tutoring"
+                    ]
+                },
+                {
+                    "timestamp": "2023-06-13T09:35:00",
+                    "amount": 5948.98,
+                    "financial_metadata": {
+                    "currency": "DKK",
+                    "transaction_type": "TRANSER_PAYMENT",
+                    "recommendations": {
+                        "PENDING": 10,
+                        "SKIPPED": 5,
+                        "NOT_RECOMMENDED": 1,
+                        "RECOMMENDED_UNCATEGORIZED": 2,
+                        "RECOMMENDED_FOR_BUSINESS": 0,
+                        "RECOMMENDED_FOR_FAMILY": 12,
+                        "RECOMMENDED_FOR_DATE": 20,
+                        "RECOMMENDED_FOR_MYSELF": 0,
+                        "RECOMMENDED_FOR_FRIENDS": 0
+                    }
+                    },
+                    "counterparty": "De Bakkerswinkel",
+                    "category_tags": [
+                    "cafe",
+                    " entertainment"
+                    ]
+                },
+                {
+                    "timestamp": "2023-07-08T23:19:00",
+                    "amount": 5948.98,
+                    "financial_metadata": {
+                    "currency": "CZK",
+                    "transaction_type": "PAYROLL",
+                    "recommendations": {
+                        "PENDING": 0,
+                        "SKIPPED": 0,
+                        "NOT_RECOMMENDED": 0,
+                        "RECOMMENDED_UNCATEGORIZED": 0,
+                        "RECOMMENDED_FOR_BUSINESS": 0,
+                        "RECOMMENDED_FOR_FAMILY": 10,
+                        "RECOMMENDED_FOR_DATE": 0,
+                        "RECOMMENDED_FOR_MYSELF": 5,
+                        "RECOMMENDED_FOR_FRIENDS": 5
+                    }
+                    },
+                    "counterparty": "PLAZA INN",
+                    "category_tags": [
+                    "consulting",
+                    " business",
+                    " professional"
+                    ]
+                },
+                {
+                    "timestamp": "2023-08-08T10:05:00",
+                    "amount": 5948.98,
+                    "financial_metadata": {
+                    "currency": "INR",
+                    "transaction_type": "ADOR",
+                    "recommendations": {
+                        "PENDING": 1,
+                        "SKIPPED": 2,
+                        "NOT_RECOMMENDED": 0,
+                        "RECOMMENDED_UNCATEGORIZED": 1,
+                        "RECOMMENDED_FOR_BUSINESS": 1,
+                        "RECOMMENDED_FOR_FAMILY": 0,
+                        "RECOMMENDED_FOR_DATE": 0,
+                        "RECOMMENDED_FOR_MYSELF": 0,
+                        "RECOMMENDED_FOR_FRIENDS": 0
+                    }
+                    },
+                    "counterparty": "Tech.red DE GmbH",
+                    "category_tags": [
+                    "grocery",
+                    " organic"
+                    ]
+                },
+                {
+                    "timestamp": "2023-09-04T03:11:00",
+                    "amount": 5948.98,
+                    "financial_metadata": {
+                    "currency": "PLN",
+                    "transaction_type": "REQUEST",
+                    "recommendations": {
+                        "PENDING": 0,
+                        "SKIPPED": 2,
+                        "NOT_RECOMMENDED": 0,
+                        "RECOMMENDED_UNCATEGORIZED": 5,
+                        "RECOMMENDED_FOR_BUSINESS": 0,
+                        "RECOMMENDED_FOR_FAMILY": 2,
+                        "RECOMMENDED_FOR_DATE": 1,
+                        "RECOMMENDED_FOR_MYSELF": 0,
+                        "RECOMMENDED_FOR_FRIENDS": 0
+                    }
+                    },
+                    "counterparty": "NovaEnergies",
+                    "category_tags": [
+                    "online_sales",
+                    " ecommerce",
+                    " software"
+                    ]
+                },
+                {
+                    "timestamp": "2023-10-28T01:31:00",
+                    "amount": 5948.98,
+                    "financial_metadata": {
+                    "currency": "CNY",
+                    "transaction_type": "TRANSFERENCE",
+                    "recommendations": {
+                        "PENDING": 3,
+                        "SKIPPED": 1,
+                        "NOT_RECOMMENDED": 0,
+                        "RECOMMENDED_UNCATEGORIZED": 2,
+                        "RECOMMENDED_FOR_BUSINESS": 0,
+                        "RECOMMENDED_FOR_FAMILY": 0,
+                        "RECOMMENDED_FOR_DATE": 0,
+                        "RECOMMENDED_FOR_MYSELF": 1,
+                        "RECOMMENDED_FOR_FRIENDS": 0
+                    }
+                    },
+                    "counterparty": "JO'S DINER",
+                    "category_tags": [
+                    "super_market",
+                    " grocery_store",
+                    " store"
+                    ]
+                },
+                {
+                    "timestamp": "2023-11-18T13:59:00",
+                    "amount": 5948.98,
+                    "financial_metadata": {
+                    "currency": "MYR",
+                    "transaction_type": "ADIEN",
+                    "recommendations": {
+                        "PENDING": 0,
+                        "SKIPPED": 0,
+                        "NOT_RECOMMENDED": 0,
+                        "RECOMMENDED_UNCATEGORIZED": 0,
+                        "RECOMMENDED_FOR_BUSINESS": 4,
+                        "RECOMMENDED_FOR_FAMILY": 3,
+                        "RECOMMENDED_FOR_DATE": 0,
+                        "RECOMMENDED_FOR_MYSELF": 7,
+                        "RECOMMENDED_FOR_FRIENDS": 2
+                    }
+                    },
+                    "counterparty": "W. Sanders",
+                    "category_tags": [
+                    "restaurant",
+                    "  cityview"
+                    ]
+                },
+                {
+                    "timestamp": "2023-12-07T01:14:00",
+                    "amount": 5948.98,
+                    "financial_metadata": {
+                    "currency": "HKD",
+                    "transaction_type": "TOP UP",
+                    "recommendations": {
+                        "PENDING": 0,
+                        "SKIPPED": 2,
+                        "NOT_RECOMMENDED": 5,
+                        "RECOMMENDED_UNCATEGORIZED": 8,
+                        "RECOMMENDED_FOR_BUSINESS": 1,
+                        "RECOMMENDED_FOR_FAMILY": 4,
+                        "RECOMMENDED_FOR_DATE": 6,
+                        "RECOMMENDED_FOR_MYSELF": 3,
+                        "RECOMMENDED_FOR_FRIENDS": 5
+                    }
+                    },
+                    "counterparty": "STOCKYARDS SAUNA",
+                    "category_tags": [
+                    "cafe",
+                    " restaurant",
+                    " food"
+                    ]
+                },
+                {
+                    "timestamp": "2024-01-21T03:11:00",
+                    "amount": 6246.43,
+                    "financial_metadata": {
+                    "currency": "SAR",
+                    "transaction_type": "IBAN",
+                    "recommendations": {
+                        "PENDING": 0,
+                        "SKIPPED": 0,
+                        "NOT_RECOMMENDED": 0,
+                        "RECOMMENDED_UNCATEGORIZED": 1,
+                        "RECOMMENDED_FOR_BUSINESS": 0,
+                        "RECOMMENDED_FOR_FAMILY": 1,
+                        "RECOMMENDED_FOR_DATE": 0,
+                        "RECOMMENDED_FOR_MYSELF": 1,
+                        "RECOMMENDED_FOR_FRIENDS": 0
+                    }
+                    },
+                    "counterparty": "MERCURE HOTEL",
+                    "category_tags": [
+                    "pastry",
+                    " cafe",
+                    " store"
+                    ]
+                },
+                {
+                    "timestamp": "2024-02-13T08:11:00",
+                    "amount": 6246.43,
+                    "financial_metadata": {
+                    "currency": "USD",
+                    "transaction_type": "WISE",
+                    "recommendations": {
+                        "PENDING": 2,
+                        "SKIPPED": 5,
+                        "NOT_RECOMMENDED": 1,
+                        "RECOMMENDED_UNCATEGORIZED": 0,
+                        "RECOMMENDED_FOR_BUSINESS": 3,
+                        "RECOMMENDED_FOR_FAMILY": 6,
+                        "RECOMMENDED_FOR_DATE": 2,
+                        "RECOMMENDED_FOR_MYSELF": 1,
+                        "RECOMMENDED_FOR_FRIENDS": 0
+                    }
+                    },
+                    "counterparty": "Margaret's Books via RapidTransfer",
+                    "category_tags": [
+                    "bistro",
+                    "restaurant"
+                    ]
+                },
+                {
+                    "timestamp": "2024-03-17T23:24:00",
+                    "amount": 6246.43,
+                    "financial_metadata": {
+                    "currency": "VND",
+                    "transaction_type": "TOP UP",
+                    "recommendations": {
+                        "PENDING": 1,
+                        "SKIPPED": 0,
+                        "NOT_RECOMMENDED": 0,
+                        "RECOMMENDED_UNCATEGORIZED": 1,
+                        "RECOMMENDED_FOR_BUSINESS": 0,
+                        "RECOMMENDED_FOR_FAMILY": 2,
+                        "RECOMMENDED_FOR_DATE": 0,
+                        "RECOMMENDED_FOR_MYSELF": 0,
+                        "RECOMMENDED_FOR_FRIENDS": 3
+                    }
+                    },
+                    "counterparty": "Lion Holdings",
+                    "category_tags": [
+                    "automotive",
+                    " electric_vehicle",
+                    " charging_station",
+                    " store"
+                    ]
+                },
+                {
+                    "timestamp": "2024-04-21T02:41:00",
+                    "amount": 6246.43,
+                    "financial_metadata": {
+                    "currency": "CNY",
+                    "transaction_type": "INTEREST",
+                    "recommendations": {
+                        "PENDING": 0,
+                        "SKIPPED": 10,
+                        "NOT_RECOMMENDED": 5,
+                        "RECOMMENDED_UNCATEGORIZED": 30,
+                        "RECOMMENDED_FOR_BUSINESS": 15,
+                        "RECOMMENDED_FOR_FAMILY": 20,
+                        "RECOMMENDED_FOR_DATE": 20,
+                        "RECOMMENDED_FOR_MYSELF": 10,
+                        "RECOMMENDED_FOR_FRIENDS": 10
+                    }
+                    },
+                    "counterparty": "RESTAURANT MAISON",
+                    "category_tags": [
+                    "gastropub",
+                    " bar",
+                    " restaurant",
+                    " store"
+                    ]
+                },
+                {
+                    "timestamp": "2024-05-10T17:19:00",
+                    "amount": 6246.43,
+                    "financial_metadata": {
+                    "currency": "HUF",
+                    "transaction_type": "      MASTER CARD",
+                    "recommendations": {
+                        "PENDING": 0,
+                        "SKIPPED": 0,
+                        "NOT_RECOMMENDED": 0,
+                        "RECOMMENDED_UNCATEGORIZED": 0,
+                        "RECOMMENDED_FOR_BUSINESS": 0,
+                        "RECOMMENDED_FOR_FAMILY": 3,
+                        "RECOMMENDED_FOR_DATE": 0,
+                        "RECOMMENDED_FOR_MYSELF": 5,
+                        "RECOMMENDED_FOR_FRIENDS": 2
+                    }
+                    },
+                    "counterparty": "MUSEUM BERLIN",
+                    "category_tags": [
+                    "transportation",
+                    " bus",
+                    " travel"
+                    ]
+                },
+                {
+                    "timestamp": "2024-06-15T14:12:00",
+                    "amount": 6246.43,
+                    "financial_metadata": {
+                    "currency": "KRW",
+                    "transaction_type": "TRANSLINK",
+                    "recommendations": {
+                        "PENDING": 3,
+                        "SKIPPED": 1,
+                        "NOT_RECOMMENDED": 0,
+                        "RECOMMENDED_UNCATEGORIZED": 2,
+                        "RECOMMENDED_FOR_BUSINESS": 4,
+                        "RECOMMENDED_FOR_FAMILY": 2,
+                        "RECOMMENDED_FOR_DATE": 3,
+                        "RECOMMENDED_FOR_MYSELF": 0,
+                        "RECOMMENDED_FOR_FRIENDS": 0
+                    }
+                    },
+                    "counterparty": "CoffeeBlossom",
+                    "category_tags": [
+                    "green_energy",
+                    "solar"
+                    ]
+                },
+                {
+                    "timestamp": "2024-07-13T18:10:00",
+                    "amount": 6246.43,
+                    "financial_metadata": {
+                    "currency": "SGD",
+                    "transaction_type": "SUBSCRIPTIONS",
+                    "recommendations": {
+                        "PENDING": 0,
+                        "SKIPPED": 1,
+                        "NOT_RECOMMENDED": 1,
+                        "RECOMMENDED_UNCATEGORIZED": 0,
+                        "RECOMMENDED_FOR_BUSINESS": 0,
+                        "RECOMMENDED_FOR_FAMILY": 0,
+                        "RECOMMENDED_FOR_DATE": 0,
+                        "RECOMMENDED_FOR_MYSELF": 3,
+                        "RECOMMENDED_FOR_FRIENDS": 0
+                    }
+                    },
+                    "counterparty": "Grndflr Cafe CTR",
+                    "category_tags": [
+                    "theatre",
+                    "performing_arts"
+                    ]
+                },
+                {
+                    "timestamp": "2024-08-07T06:45:00",
+                    "amount": 6246.43,
+                    "financial_metadata": {
+                    "currency": "NZD",
+                    "transaction_type": "REQUEST",
+                    "recommendations": {
+                        "PENDING": 2,
+                        "SKIPPED": 1,
+                        "NOT_RECOMMENDED": 0,
+                        "RECOMMENDED_UNCATEGORIZED": 1,
+                        "RECOMMENDED_FOR_BUSINESS": 0,
+                        "RECOMMENDED_FOR_FAMILY": 2,
+                        "RECOMMENDED_FOR_DATE": 0,
+                        "RECOMMENDED_FOR_MYSELF": 2,
+                        "RECOMMENDED_FOR_FRIENDS": 0
+                    }
+                    },
+                    "counterparty": "Quickstop",
+                    "category_tags": [
+                    "gym",
+                    " fitness"
+                    ]
+                },
+                {
+                    "timestamp": "2024-09-15T09:33:00",
+                    "amount": 6246.43,
+                    "financial_metadata": {
+                    "currency": "RUB",
+                    "transaction_type": "CASHBACK",
+                    "recommendations": {
+                        "PENDING": 0,
+                        "SKIPPED": 0,
+                        "NOT_RECOMMENDED": 1,
+                        "RECOMMENDED_UNCATEGORIZED": 0,
+                        "RECOMMENDED_FOR_BUSINESS": 0,
+                        "RECOMMENDED_FOR_FAMILY": 3,
+                        "RECOMMENDED_FOR_DATE": 0,
+                        "RECOMMENDED_FOR_MYSELF": 2,
+                        "RECOMMENDED_FOR_FRIENDS": 0
+                    }
+                    },
+                    "counterparty": "Vino Bello",
+                    "category_tags": [
+                    "hotel",
+                    " bar",
+                    " restaurant"
+                    ]
+                },
+                {
+                    "timestamp": "2024-10-16T04:06:00",
+                    "amount": 6246.43,
+                    "financial_metadata": {
+                    "currency": "KES",
+                    "transaction_type": "BUNQ",
+                    "recommendations": {
+                        "PENDING": 0,
+                        "SKIPPED": 1,
+                        "NOT_RECOMMENDED": 1,
+                        "RECOMMENDED_UNCATEGORIZED": 0,
+                        "RECOMMENDED_FOR_BUSINESS": 0,
+                        "RECOMMENDED_FOR_FAMILY": 1,
+                        "RECOMMENDED_FOR_DATE": 0,
+                        "RECOMMENDED_FOR_MYSELF": 0,
+                        "RECOMMENDED_FOR_FRIENDS": 3
+                    }
+                    },
+                    "counterparty": "Volkswagen",
+                    "category_tags": [
+                    "supermarket",
+                    " groceries",
+                    " food"
+                    ]
+                },
+                {
+                    "timestamp": "2024-11-22T11:44:00",
+                    "amount": 6246.43,
+                    "financial_metadata": {
+                    "currency": "INR",
+                    "transaction_type": "DEPOSIT",
+                    "recommendations": {
+                        "PENDING": 3,
+                        "SKIPPED": 1,
+                        "NOT_RECOMMENDED": 2,
+                        "RECOMMENDED_UNCATEGORIZED": 4,
+                        "RECOMMENDED_FOR_BUSINESS": 2,
+                        "RECOMMENDED_FOR_FAMILY": 1,
+                        "RECOMMENDED_FOR_DATE": 0,
+                        "RECOMMENDED_FOR_MYSELF": 1,
+                        "RECOMMENDED_FOR_FRIENDS": 1
+                    }
+                    },
+                    "counterparty": "D.B. van Williams",
+                    "category_tags": [
+                    "bookstore",
+                    " cafe",
+                    " magazines",
+                    " library"
+                    ]
+                },
+                {
+                    "timestamp": "2024-12-12T19:04:00",
+                    "amount": 6246.43,
+                    "financial_metadata": {
+                    "currency": "BRL",
+                    "transaction_type": "BILLING",
+                    "recommendations": {
+                        "PENDING": 1,
+                        "SKIPPED": 2,
+                        "NOT_RECOMMENDED": 1,
+                        "RECOMMENDED_UNCATEGORIZED": 1,
+                        "RECOMMENDED_FOR_BUSINESS": 1,
+                        "RECOMMENDED_FOR_FAMILY": 2,
+                        "RECOMMENDED_FOR_DATE": 0,
+                        "RECOMMENDED_FOR_MYSELF": 1,
+                        "RECOMMENDED_FOR_FRIENDS": 1
+                    }
+                    },
+                    "counterparty": "A. Schumacher",
+                    "category_tags": [
+                    "coffee_shop",
+                    " restaurant",
+                    " store"
+                    ]
+                }
+                ]
+            }}
+
+        function generateJSON() {
+            const modifiedData = JSON.parse(JSON.stringify(baseData));
+
+            // Update transaction overview
+            modifiedData[569].rental_info.financial_metrics.total_transactions = 
+                parseInt(document.getElementById('totalTransactions').value);
+
+            // Update geographical insights
+            modifiedData[569].rental_info.geographical_insights = {
+                cities: document.getElementById('cities').value.split(',').map(c => c.trim()),
+                transaction_spread_km: parseFloat(document.getElementById('transactionSpread').value)
+            };
+
+            // Update subscription info
+            modifiedData[569].subscription_info = {
+                total_subscriptions: parseInt(document.getElementById('totalSubscriptions').value),
+                monthly_cost_breakdown: Object.fromEntries(
+                    document.getElementById('monthlyCosts').value.split(',').map(item => {
+                        const [currency, amount] = item.split(':');
+                        return [currency.trim(), parseFloat(amount)];
+                    })
+                )
+            };
+
+            // Update first salary transaction
+            modifiedData[569].salary_transactions[0] = {
+                ...modifiedData[569].salary_transactions[0],
+                timestamp: new Date(document.getElementById('salaryTimestamp').value).toISOString(),
+                amount: parseFloat(document.getElementById('salaryAmount').value),
+                financial_metadata: {
+                    ...modifiedData[569].salary_transactions[0].financial_metadata,
+                    transaction_type: document.getElementById('transactionType').value
+                }
+            };
+
+            // Create and download JSON
+            const json = JSON.stringify(modifiedData, null, 2);
+            const blob = new Blob([json], {type: 'application/json'});
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'llm_demo_data.json';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+    </script>
+</body>
+</html>

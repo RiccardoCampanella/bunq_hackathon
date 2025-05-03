@@ -1,35 +1,35 @@
 {
   "key_metrics": {
-    "total_monthly_obligations": 18659.64,
-    "largest_expense_category": "Salary",
-    "financial_stability_score": 80
+    "total_monthly_obligations": 5948.98,
+    "largest_expense_category": "store",
+    "financial_stability_score": 40
   },
   "observations": [
-    "High salary transactions with varying categories",
-    "Diversified currency distribution in transactions"
+    "Multiple transactions with high amounts",
+    "Diverse category tags across transactions"
   ],
   "recommendations": [
-    "Categorize salary transactions for better insights",
-    "Explore currency exchange optimization opportunities",
+    "Review and categorize transactions",
+    "Consider budgeting and expense tracking",
     "SCRAPE: Rental listings in transaction areas <\u20ac2500/mo",
     "SCRAPE: High-salary positions in international finance",
     "SCRAPE: Subscription alternatives for frequent categories"
   ],
   "predictions": {
     "status_quo": {
-      "salary_trend": "Salary trend remains stagnant with no significant increase or decrease expected in the next quarter.",
-      "subscription_trend": "Subscription expenses are expected to increase by 5-7% in the next quarter due to rising costs.",
-      "rent_trend": "Rent is likely to increase by 10-12% in the next quarter due to high demand and limited supply."
+      "salary_trend": "Salary remains stable, with a slight 2% increase, indicating a consistent income stream.",
+      "subscription_trend": "Subscription costs experience a moderate 5% decline, suggesting a reduction in unnecessary expenses.",
+      "rent_trend": "Rent payments remain steady, with a negligible 1% increase, reflecting a stable living situation."
     },
     "with_recommendations": {
-      "salary_trend": "Salary trend is expected to increase by 3-5% in the next quarter with effective budgeting and financial planning.",
-      "subscription_trend": "Subscription expenses can be reduced by 2-3% in the next quarter by canceling unused services and negotiating better deals.",
-      "rent_trend": "Rent can be negotiated to increase by only 5-7% in the next quarter by exploring alternative options and areas."
+      "salary_trend": "Salary growth accelerates, with a 10% increase, driven by strategic investments and smart financial decisions.",
+      "subscription_trend": "Subscription costs plummet by 15%, as unnecessary expenses are cut, freeing up resources for more important allocations.",
+      "rent_trend": "Rent payments decrease by 8%, as a result of savvy negotiation and cost-effective living arrangements."
     },
     "regression_based": {
-      "salary_increase_probability": 0.021,
-      "subscription_increase_probability": 0.096,
-      "rent_increase_probability": 0.165
+      "salary_increase_probability": 0.144,
+      "subscription_increase_probability": 0.06,
+      "rent_increase_probability": 0.109
     }
   }
 }
